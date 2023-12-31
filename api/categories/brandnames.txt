@@ -1,0 +1,200 @@
+Nike
+Apple
+Coca-Cola
+McDonald's
+Google
+Toyota
+Adidas
+Pepsi
+Ford
+Burger King
+IBM
+Chevrolet
+Amazon
+Verizon
+Microsoft
+Disney
+General Electric (GE)
+AT&T
+Visa
+Mastercard
+Target
+Walmart
+BMW
+Mercedes-Benz
+L'Oreal
+American Express
+Samsung
+Sony
+FedEx
+UPS
+Delta Airlines
+T-Mobile
+Verizon
+Lexus
+Hilton
+Subway
+KFC
+H&M
+Lays
+American Airlines
+Delta Airlines
+Budweiser
+Hyundai
+Cisco
+3M
+General Motors (GM)
+Lufthansa
+Hewlett-Packard (HP)
+Intel
+Dell
+Audi
+Nestle
+Pringles
+Caterpillar
+Nissan
+Bosch
+Colgate
+IBM
+Shell
+Panasonic
+Citi
+Cisco
+Colgate
+Siemens
+John Deere
+Bounty
+Duracell
+Tide
+Quaker Oats
+Pampers
+Kellogg's
+M&Ms
+Starbucks
+Pandora
+Hershey's
+Nokia
+General Mills
+Johnson & Johnson
+Volkswagen
+Chanel
+Oracle
+Nordstrom
+Gap
+Ray-Ban
+Dior
+Nivea
+Ferrari
+Adobe
+Lamborghini
+Nikon
+L'Occitane
+Porsche
+Reebok
+Acer
+Sharp
+Nintendo
+Tiffany & Co.
+Prada
+Yamaha
+Ralph Lauren
+Ikea
+Bentley
+Timberland
+GoPro
+Maserati
+Bose
+Rolls-Royce
+Philips
+LG
+Puma
+Xerox
+Black & Decker
+Abercrombie & Fitch
+Zara
+Vans
+Jaguar
+Haagen-Dazs
+Fossil
+Hugo Boss
+Tiffany & Co.
+PlayStation
+Forever 21
+Heinz
+Goodyear
+Lamborghini
+Dunkin'
+Ivory
+Nissan
+Caterpillar
+Vimeo
+Lancôme
+Under Armour
+Cole Haan
+Fitbit
+Fujifilm
+Allianz
+Lululemon
+Bosch
+Xbox
+Gucci
+Danone
+Aston Martin
+Toshiba
+Western Digital
+Uniqlo
+Burberry
+Novartis
+Tom Ford
+Asus
+Zippo
+Fossil
+Montblanc
+Vodafone
+Tesla
+Asics
+Kia
+Swatch
+Braun
+Dell
+Prada
+Coca-Cola
+Kraft Heinz
+Nordstrom
+Gap
+Nintendo
+Tiffany & Co.
+L'Occitane
+Porsche
+Reebok
+Bose
+Philips
+LG
+Puma
+Zara
+Jaguar
+Haagen-Dazs
+Hugo Boss
+PlayStation
+Forever 21
+Heinz
+Goodyear
+Dunkin'
+Ivory
+Nissan
+Caterpillar
+Vimeo
+Lancôme
+Under Armour
+Fitbit
+Fujifilm
+Allianz
+Lululemon
+Bosch
+Xbox
+Gucci
+Danone
+Aston Martin
+Toshiba
+Western Digital
+Uniqlo

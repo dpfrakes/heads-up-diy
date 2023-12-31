@@ -1,0 +1,162 @@
+United States Army
+United States Navy
+United States Air Force
+United States Marine Corps
+United States Coast Guard
+Pentagon
+Joint Chiefs of Staff
+Department of Defense
+NCO
+Private
+Private E-2
+Private First Class
+Specialist/Corporal
+Lance Corporal
+Airman Basic
+Airman
+Airman First Class
+Senior Airman
+Staff Sergeant
+Sergeant
+Sergeant
+Gunnery Sergeant
+Technical Sergeant
+Master Sergeant
+First Sergeant
+Senior Master Sergeant
+Sergeant Major
+Master Gunnery Sergeant
+Chief Master Sergeant
+Officer
+Second Lieutenant
+Ensign
+First Lieutenant
+Lieutenant Junior Grade
+Captain
+Lieutenant
+Major
+Lieutenant Commander
+Lieutenant Colonel
+Commander
+Colonel
+Captain
+Brigadier General
+Rear Admiral
+Major General
+Rear Admiral
+Lieutenant General
+Vice Admiral
+General
+Admiral
+West Point
+Naval Academy
+Air Force Academy
+Virginia Military Institute
+Basic Training
+BDU
+Veterans Affairs
+Defense Budget
+Military Intelligence
+Special Forces
+Green Berets
+Navy SEALs
+Nuclear Triad
+Fort Myers
+Patrick Space Force Base
+Fort Bragg (North Carolina)
+Fort Hood (Texas)
+Joint Base Lewis-McChord (Washington)
+Naval Station Norfolk (Virginia)
+Fort Benning (Georgia)
+Fort Campbell (Kentucky/Tennessee)
+Naval Air Station Pensacola (Florida)
+Marine Corps Base Camp Pendleton (California)
+Joint Base San Antonio (Texas)
+Fort Leavenworth (Kansas)
+Naval Air Station Joint Reserve Base Fort Worth (Texas)
+Fort Gordon (Georgia)
+Fort Bliss (Texas)
+Naval Station San Diego (California)
+Camp Lejeune (North Carolina)
+Fort Carson (Colorado)
+Naval Base Coronado (California)
+Eglin Air Force Base (Florida)
+Fort Riley (Kansas)
+Military Strategy
+Operation Desert Storm
+Operation Desert Shield
+Operation Enduring Freedom
+Operation Overlord / D-Day
+Operation Iraqi Freedom
+Operation Neptune Spear
+Operation Rolling Thunder
+Operation Market Garden
+Veterans Day
+Memorial Day
+Medal of Honor
+Purple Heart
+Bronze Star
+Silver Star
+Distinguished Service Cross
+Navy Cross
+Military Chaplain
+ROTC (Reserve Officer Training Corps)
+National Guard
+American Legion
+VFW
+JAG
+NATO
+World War I
+World War II
+Korean War
+Vietnam War
+War in Afghanistan
+War of 1812
+Revolutionary War
+Glf War
+Gettysburg
+Normandy
+Iwo Jima
+Inchon
+Fallujah
+Mogadishu
+Civil War
+Battle of the Bulge
+M1 Abrams
+Apache
+C-130
+Airbus
+Black Hawk
+F-22
+F-35
+Aircraft Carrier
+Battleship
+Destroyer
+Lockheed Martin
+Boeing
+SAIC
+Leidos
+Northrop Grumman
+Raytheon
+General Dynamics
+BAE
+L3Harris
+CACI
+Honeywell
+CIA
+NSA
+NRO
+Wounded Warriors
+POW/MIA (Prisoners of War/Missing in Action)
+Military Police
+Military Bands
+George Washington
+Ulysses S. Grant
+Dwight D. Eisenhower
+George Patton
+Douglas MacArthur
+Norman Schwarzkopf
+Colin Powell
+William T. Sherman
+Matthew Ridgway
+David Petraeus

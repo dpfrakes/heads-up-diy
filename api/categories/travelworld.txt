@@ -1,0 +1,100 @@
+Eiffel Tower
+Machu Picchu
+Great Wall of China
+Pyramids of Giza
+Sydney Opera House
+Taj Mahal
+Santorini
+Tokyo, Japan
+Serengeti National Park
+Petra
+Colosseum
+Banff National Park
+Christ the Redeemer
+Kyoto, Japan
+Neuschwanstein Castle
+Great Barrier Reef
+The Louvre
+Edinburgh Castle
+Venice, Italy
+Angkor Wat
+Mount Fuji
+The Acropolis
+Lake Bled
+Dubai, United Arab Emirates
+Galápagos Islands
+St. Petersburg, Russia
+Amazon Rainforest
+Barcelona, Spain
+Marrakech, Morocco
+The Vatican City
+Patagonia
+The Maldives
+Kyoto, Japan
+Kilimanjaro
+Istanbul, Turkey
+The Great Ocean Road
+The Dead Sea
+Banff National Park
+Chichen Itza
+Santorini
+The Swiss Alps
+Reykjavik, Iceland
+The Amalfi Coast
+The Serengeti
+Cairo, Egypt
+Petra
+Machu Picchu
+Sydney, Australia
+Tokyo, Japan
+Rio de Janeiro, Brazil
+Vancouver, Canada
+Cape Town, South Africa
+Barcelona, Spain
+Moscow, Russia
+Buenos Aires, Argentina
+Stockholm, Sweden
+Hanoi, Vietnam
+Prague, Czech Republic
+Auckland, New Zealand
+Bangkok, Thailand
+Nairobi, Kenya
+Seoul, South Korea
+Dublin, Ireland
+Cairo, Egypt
+Kyoto, Japan
+The Maldives
+Istanbul, Turkey
+Banff National Park
+Sydney Opera House
+Patagonia
+Rio de Janeiro, Brazil
+Santorini
+Dubai, United Arab Emirates
+St. Petersburg, Russia
+Barcelona, Spain
+Marrakech, Morocco
+Venice, Italy
+The Great Barrier Reef
+The Louvre
+Edinburgh Castle
+Angkor Wat
+Mount Fuji
+The Acropolis
+Lake Bled
+Galápagos Islands
+Amazon Rainforest
+The Vatican City
+Chichen Itza
+The Swiss Alps
+Reykjavik, Iceland
+The Amalfi Coast
+The Serengeti
+The Dead Sea
+Kilimanjaro
+The Great Ocean Road
+Vancouver, Canada
+Cape Town, South Africa
+Moscow, Russia
+Buenos Aires, Argentina
+Stockholm, Sweden

@@ -1,0 +1,85 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mainLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/defaultBackgroundColor"
+    tools:context=".GameResultsActivity">
+
+    <ScrollView
+        android:id="@+id/cluesListScrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="25sp"
+        android:layout_marginTop="25sp"
+        android:layout_marginEnd="25sp"
+        android:layout_marginBottom="25sp"
+        android:textAlignment="center">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center">
+
+            <RelativeLayout
+                android:id="@+id/resultSummaryCounts"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:gravity="center">
+
+                <TextView
+                    android:id="@+id/textViewNumCorrect"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="30sp"
+                    android:layout_margin="20dp" />
+
+                <TextView
+                    android:id="@+id/textViewNumPassed"
+                    android:layout_toEndOf="@+id/textViewNumCorrect"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="30sp"
+                    android:layout_margin="20dp" />
+
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/cluesListTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/resultSummaryCounts"
+                android:layout_marginTop="40sp"
+                android:textSize="50sp"
+                android:textAlignment="center" />
+
+            <Button
+                android:id="@+id/goToMenuButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/cluesListTextView"
+                android:textAlignment="center"
+                android:backgroundTint="@color/black"
+                android:text="Game Menu"
+                android:textColor="#ffffff"
+                android:textSize="30sp"
+                android:layout_centerInParent="true" />
+
+            <Button
+                android:id="@+id/playAgainButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/goToMenuButton"
+                android:textAlignment="center"
+                android:backgroundTint="@color/green"
+                android:text="Play Again"
+                android:textColor="#ffffff"
+                android:textSize="30sp"
+                android:layout_centerInParent="true" />
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,13 @@
+<!-- res/values/colors.xml -->
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="red">#FF0000</color>
+    <color name="orange">#FFAA00</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="green">#00CC00</color>
+    <color name="blue">#0000FF</color>
+
+    <color name="defaultBackgroundColor">@color/blue</color>
+    <color name="status_bar_color">@color/blue</color>
+</resources>

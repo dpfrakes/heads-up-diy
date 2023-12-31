@@ -1,0 +1,77 @@
+Piano
+Guitar
+Violin
+Flute
+Trumpet
+Drum Kit
+Saxophone
+Clarinet
+Cello
+Double Bass
+Harp
+Trombone
+French Horn
+Tuba
+Banjo
+Mandolin
+Accordion
+Ukulele
+Xylophone
+Marimba
+Vibraphone
+Electric Bass
+Synthesizer
+Organ
+Bagpipes
+Oboe
+Bassoon
+Piccolo
+Recorder
+Pan Flute
+Didgeridoo
+Steel Drum
+Balalaika
+Sitar
+Tabla
+Bongo Drums
+Conga Drums
+Djembe
+Cajón
+Gong
+Triangle
+Tambourine
+Castanets
+Maracas
+Cowbell
+Whistle
+Harmonica
+Accordion
+Theremin
+Dulcimer
+Hurdy-Gurdy
+Taiko Drum
+Zither
+Harpsichord
+Clavichord
+Jaw Harp
+Ocarina
+Concertina
+Alphorn
+Jew's Harp
+Theremin
+Bass Clarinet
+Contrabassoon
+Alto Flute
+Didgeridoo
+Chimes
+Bass Trombone
+Flugelhorn
+Contrabass Clarinet
+Serpent
+Euphonium
+Heckelphone
+Lute
+Synclavier
+Viola da Gamba
+Glass Harmonica
+Waterphone
