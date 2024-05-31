@@ -1,100 +1,177 @@
-Pizza Margherita
-Pasta Carbonara
-Colosseum
-Gelato
-Rome
-Florence
-Venice
-Tuscany
-Vatican City
-Espresso
-Gondola Ride
-Piazza San Marco
-Pantheon
-Sistine Chapel
+margherita
+carbonara
+gelato
+olive oil
+prosciutto
+pesto
+cannoli
+pasta
+limoncello
+chianti
+caprese
+parmesan cheese
+risotto
+arancini
+calzone
+tiramisu
+aperitivo
+panzanella
+gnocchi
+grappa
+espresso
+frittata
+pizza
+mozzarella
+pecorino
+Bolognese
+Nutella
+eggplant parmesan
+spaghetti
+garlic
+focaccia
+bruschetta
+ragù
+panino
+ciabatta
+quattro formaggi
+farfalle
+lasagna
+linguine
+ravioli
+tortellini
+ricotta
+alfredo
+guanciale
+salami
+zucchini
+Tic Tac
+prosecco
+asiago
+burrata
+mascarpone
+panettone
+pandoro
+panna cotta
+biscotti
+polenta
+caffè americano
+caffè macchiato
+cappuccino
+affogato
+taralli
+seven hills
+strawberry tree
+wolf
+green, white, and red (tricolore)
+opera
+carnival
+masks
+glassblowing
+fashion
+gondola
+Fiat
+Fiat Cinquecento
+soccer
+Gucci
+Valentino
+Ferrari
+Lamborghini
+Maserati
+Vespa
+Armani
+Ancient Romans
+Etruscans
+Michelangelo
+Statue of David
+Donatello
+Botticelli
+Raffaello (Raphael)
+Leonardo da Vinci
+Marco Polo
+Galileo
+Cristoforo Colombo (Christopher Columbus)
+piazza
+La Dolce Vita
+La vita è bella (Life Is Beautiful)
+(electric) battery
+volt
+peninsula
+boot
+internal combustion engine
+bank
+barometer
+(programmable) calculator
+casino
+cello
+confetti
+(dental) fillings
+encyclopedia
+eyeglasses
+firefighting
+grappling hook
+mandolin
+microscope
+mile (unit of measurement)
+newspaper
+nuclear reactor
+parachute
+piano
+radio
+pistol
+revolver
+staff (music term)
+tarot cards
+torpedo
+typewriter
+university
+viola
+watermark
+Baroque
+Rococo
+Machiavelli
+sonnet
+methane
+fencing
+ballet
+broccoli
+breadsticks
+bocce
 Amalfi Coast
-Olive Oil
-Prosciutto
-Pesto
-Cannoli
-Limoncello
-Chianti
-Mediterranean Cuisine
-Roman Forum
+Bologna
+Calabria
+Capri
+Colosseum
+Florence
+Herculaneum
+Lake Como
+Lazio
 Leaning Tower of Pisa
-Trevi Fountain
-Caprese Salad
-Parmesan Cheese
-Risotto
-Florence Cathedral (Duomo)
-Italian Opera
-Arancini
-Calzone
-Tiramisu
-Limoncello
-Aperitivo
+Milan
+Mount Etna
+Pantheon
+Piazza Navona
+Piazza San Marco (St. Mark's Square)
+Piedmont
+Pompeii
+Rialto Bridge
+Roman Forum
+Rome
+San Marino
 Sardinia
 Sicily
-Panzanella
-Gnocchi
-Montepulciano
-Roman Holiday
-Palazzo Vecchio
-Limoncello
-Bistecca alla Fiorentina
-Rialto Bridge
-Capri
-Grappa
-Frittata
-Espresso Culture
-Venetian Masks
-Italian Fashion
-Vittorio Emanuele II Gallery
-Gargoyles of Milan Cathedral
-Balsamic Vinegar
-Milan Fashion Week
-Pizzaiolo
-Chianti Classico Wine
-Pecorino Cheese
-Cicchetti (Venetian Tapas)
-Truffle Hunting
-Orecchiette
-Provolone Cheese
-Italian Riviera
-Limoncello Spritz
-Bolognese Sauce
-Romanesco Broccoli
-Ponte Vecchio
-Nutella
-Limoncello Sorbet
-Chiesa di Santa Maria del Fiore
-Bistecca alla Pizzaiola
-Palermo
-Espresso Martini
-Limoncello Cake
-Sicilian Cannoli
-Tropea Red Onions
-Fregola
-Amaro
-Scampi alla Busara
-Neapolitan Pizza
-Limoncello Tiramisu
-Saffron Risotto
-Grilled Branzino
-Bistecca alla Griglia
-Spaghetti Vongole
-Sicilian Orange Salad
-Parmigiana
-Zeppole
-Aperol Spritz
-Saltimbocca
-Limoncello Biscotti
-Aragosta all'Arrabbiata
-Tortellini en Brodo
-Cannellini Beans
-Limoncello Cheesecake
-Struffoli
-Amatriciana Sauce
-Bistecca alla Tartara
-Limoncello Ricotta Pancakes
-Pastiera Napoletana
+Siena
+Sistine Chapel
+Spanish Steps
+St. Peter's Basilica
+The Appian Way (Via Appia)
+Trevi Fountain
+Tuscany
+Uffizi
+Vatican City
+Venice
+Verona
+Vesuvius
+Vicenza
+Cinque Terre
+Apennines (Apennine Mountains)
+Alps
