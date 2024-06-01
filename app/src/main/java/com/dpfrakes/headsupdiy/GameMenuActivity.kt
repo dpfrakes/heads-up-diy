@@ -33,6 +33,7 @@ class GameMenuActivity : AppCompatActivity() {
     private fun createItemList(): List<ImageItem> {
         val itemList: MutableList<ImageItem> = ArrayList()
 
+        itemList.add(ImageItem(R.drawable.animalkingdom, "Animal Kingdom", "animalkingdom"))
         itemList.add(ImageItem(R.drawable.bible, "The Bible", "bible"))
         itemList.add(ImageItem(R.drawable.boomers, "Boomers", "boomers"))
         itemList.add(ImageItem(R.drawable.brandnames, "Brand Names", "brandnames"))
@@ -50,8 +51,10 @@ class GameMenuActivity : AppCompatActivity() {
         itemList.add(ImageItem(R.drawable.millennials, "Millennials", "millennials"))
         itemList.add(ImageItem(R.drawable.movies, "Movies", "movies"))
         itemList.add(ImageItem(R.drawable.musicalinstruments, "Musical Instruments", "musicalinstruments"))
+        itemList.add(ImageItem(R.drawable.allthingsmusic, "All Things Music", "allthingsmusic"))
         itemList.add(ImageItem(R.drawable.occupations, "Occupations", "occupations"))
         itemList.add(ImageItem(R.drawable.outdoors, "Outdoors", "outdoors"))
+        itemList.add(ImageItem(R.drawable.philosophy, "Philosophy", "philosophy"))
         itemList.add(ImageItem(R.drawable.spaceexploration, "Space Exploration", "spaceexploration"))
         itemList.add(ImageItem(R.drawable.startrek, "Star Trek", "startrek"))
         itemList.add(ImageItem(R.drawable.starwars, "Star Wars", "starwars"))

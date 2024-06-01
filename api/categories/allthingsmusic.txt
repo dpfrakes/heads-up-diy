@@ -1,0 +1,257 @@
+"Bohemian Rhapsody"
+"Chopsticks"
+"Dancing Queen"
+"Hallelujah"
+"Happy Birthday"
+"Hotel California"
+"Imagine"
+"Never Gonna Give You Up"
+"Over the Rainbow"
+"Respect"
+"Stairway to Heaven"
+"Take On Me"
+"The Twist"
+"Twinkle Twinkle Little Star"
+"Yesterday"
+a cappella
+ABBA
+accent
+accompaniment
+accordion
+acoustic
+adagio
+allegro
+altissimo
+alto
+ambient
+amp
+andante
+anima
+Aretha Franklin
+aria
+arpeggio
+Bach
+bagpipes
+ballad
+banjo
+bar
+baritone
+barococo
+baroque
+bass
+bassist
+bassoon
+beat
+bebop
+Beethoven
+binary
+bird's eye
+blues
+Bob Marley
+bongo
+bridge
+Bruce Springsteen
+cadence
+canon
+canto
+carol
+Celine Dion
+cello
+chamber music
+choir
+chord
+chorus
+clarinet
+classic rock
+classical
+coda
+common time
+composer
+concerto
+contralto
+count
+country
+crescendo
+cymbal
+da capo
+David Bowie
+delicato
+didgeridoo
+diminuendo
+disco
+double bass
+douple stop
+drum solo
+drums
+drumstick
+dubstep
+electric
+Elvis Presley
+encore
+euphonium
+experimental
+fall
+fermata
+fiddle
+fifth
+fine
+flamenco
+flat
+flute
+folk
+forte
+fortissimo
+freestyle
+French horn
+fugue
+funk
+glockenspiel
+gong
+gospel
+grave
+Gregorian chant
+guitar
+hammered dulcimer
+harmonica
+harmony
+harp
+harpsichord
+hip hop
+hold
+hook
+house
+improvise
+indie
+instrumental
+interval
+jazz
+John Lennon
+Judy Garland
+kalimba
+keyboardist
+k-pop
+leap
+legato
+lute
+lyre
+Madonna
+major key
+mandolin
+maracas
+march
+marimba
+measure
+melody
+metal
+meter
+metronome
+mezzo-soprano
+Michael Jackson
+minor key
+modulation
+Mongolian throat singing
+movement
+Mozart
+musical
+musician
+natural
+new wave
+Nirvana
+note
+oboe
+ocarina
+octave
+oldies
+one-man band
+opera
+orchestra
+organ
+overture
+pan pipes
+pedal
+pennywhistle
+percussion
+perfect pitch
+pianissimo
+piano
+pianoforte
+Pink Floyd
+pitch
+pizzicato
+polka
+pop
+potpourri
+prelude
+prima donna
+punk
+Queen
+R&B
+ragtime
+rallentando
+rap
+recorder
+rest
+rhythm
+Rick Astley
+ritornello
+rock 'n' roll
+rockabilly
+Rolling Stones
+romantic
+rondo
+saxophone
+score
+segue
+semitone
+sharp
+sheet music
+Simon & Garfunkel
+singer
+sitar
+skip
+solo
+sonata
+song
+soprano
+sotto voce
+soul
+staccato
+staff
+stanza
+steel drum
+stereo
+Stravinsky
+swing
+synthesizer
+tambourine
+tempo
+tenor
+The Beach Boys
+The Beatles
+The Eagles
+The Who
+theremin
+timbre
+time
+timpani
+trap
+treble clef
+triangle
+trill
+triplet
+trombone
+trumpet
+tuba
+turn
+ukulele
+variations
+vibrato
+viola
+violin
+virtuoso
+vivace
+voice
+xylophone
+yodel
+zither
+zydeco
