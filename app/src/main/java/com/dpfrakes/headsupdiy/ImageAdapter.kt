@@ -42,7 +42,6 @@ class ImageAdapter(
         }
         Log.d("ImageAdapter", "Filtered List: $filteredList")
         notifyDataSetChanged()
-        Log.d("ImageAdapter", "Called notifyDataSetChanged!")
     }
 
 
@@ -54,8 +53,8 @@ class ImageAdapter(
             itemView.setOnClickListener {
                 val position = adapterPosition
                 if (position != RecyclerView.NO_POSITION) {
-                    onItemClick(itemList[position])
-                    onItemClick(itemList[position])
+                    onItemClick(filteredList[position])
+                    onItemClick(filteredList[position])
                 }
             }
         }

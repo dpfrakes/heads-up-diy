@@ -65,6 +65,7 @@ class GameMenuActivity : AppCompatActivity() {
             ImageItem(R.drawable.italy, "Italy", "italy"),
             ImageItem(R.drawable.military, "Military", "military"),
             ImageItem(R.drawable.millennials, "Millennials", "millennials"),
+            ImageItem(R.drawable.montypython, "Monty Python", "montypython"),
             ImageItem(R.drawable.movies, "Movies", "movies"),
             ImageItem(R.drawable.musicalinstruments, "Musical Instruments", "musicalinstruments"),
             ImageItem(R.drawable.allthingsmusic, "All Things Music", "allthingsmusic"),
