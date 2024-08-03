@@ -13,245 +13,245 @@
 "The Twist"
 "Twinkle Twinkle Little Star"
 "Yesterday"
-a cappella
+A cappella
 ABBA
-accent
-accompaniment
-accordion
-acoustic
-adagio
-allegro
-altissimo
-alto
-ambient
-amp
-andante
-anima
+Accent
+Accompaniment
+Accordion
+Acoustic
+Adagio
+Allegro
+Altissimo
+Alto
+Ambient
+Amp
+Andante
+Anima
 Aretha Franklin
-aria
-arpeggio
+Aria
+Arpeggio
 Bach
-bagpipes
-ballad
-banjo
-bar
-baritone
-barococo
-baroque
-bass
-bassist
-bassoon
-beat
-bebop
+Bagpipes
+Ballad
+Banjo
+Bar
+Baritone
+Barococo
+Baroque
+Bass
+Bassist
+Bassoon
+Beat
+Bebop
 Beethoven
-binary
-bird's eye
-blues
+Binary
+Bird's eye
+Blues
 Bob Marley
-bongo
-bridge
+Bongo
+Bridge
 Bruce Springsteen
-cadence
-canon
-canto
-carol
+Cadence
+Canon
+Canto
+Carol
 Celine Dion
-cello
-chamber music
-choir
-chord
-chorus
-clarinet
-classic rock
-classical
-coda
-common time
-composer
-concerto
-contralto
-count
-country
-crescendo
-cymbal
-da capo
+Cello
+Chamber music
+Choir
+Chord
+Chorus
+Clarinet
+Classic rock
+Classical
+Coda
+Common time
+Composer
+Concerto
+Contralto
+Count
+Country
+Crescendo
+Cymbal
+Da capo
 David Bowie
-delicato
-didgeridoo
-diminuendo
-disco
-double bass
-douple stop
-drum solo
-drums
-drumstick
-dubstep
-electric
+Delicato
+Didgeridoo
+Diminuendo
+Disco
+Double bass
+Douple stop
+Drum solo
+Drums
+Drumstick
+Dubstep
+Electric
 Elvis Presley
-encore
-euphonium
-experimental
-fall
-fermata
-fiddle
-fifth
-fine
-flamenco
-flat
-flute
-folk
-forte
-fortissimo
-freestyle
+Encore
+Euphonium
+Experimental
+Fall
+Fermata
+Fiddle
+Fifth
+Fine
+Flamenco
+Flat
+Flute
+Folk
+Forte
+Fortissimo
+Freestyle
 French horn
-fugue
-funk
-glockenspiel
-gong
-gospel
-grave
+Fugue
+Funk
+Glockenspiel
+Gong
+Gospel
+Grave
 Gregorian chant
-guitar
-hammered dulcimer
-harmonica
-harmony
-harp
-harpsichord
-hip hop
-hold
-hook
-house
-improvise
-indie
-instrumental
-interval
-jazz
+Guitar
+Hammered dulcimer
+Harmonica
+Harmony
+Harp
+Harpsichord
+Hip hop
+Hold
+Hook
+House
+Improvise
+Indie
+Instrumental
+Interval
+Jazz
 John Lennon
 Judy Garland
-kalimba
-keyboardist
-k-pop
-leap
-legato
-lute
-lyre
+Kalimba
+Keyboardist
+K-pop
+Leap
+Legato
+Lute
+Lyre
 Madonna
-major key
-mandolin
-maracas
-march
-marimba
-measure
-melody
-metal
-meter
-metronome
-mezzo-soprano
+Major key
+Mandolin
+Maracas
+March
+Marimba
+Measure
+Melody
+Metal
+Meter
+Metronome
+Mezzo-soprano
 Michael Jackson
-minor key
-modulation
+Minor key
+Modulation
 Mongolian throat singing
-movement
+Movement
 Mozart
-musical
-musician
-natural
-new wave
+Musical
+Musician
+Natural
+New wave
 Nirvana
-note
-oboe
-ocarina
-octave
-oldies
-one-man band
-opera
-orchestra
-organ
-overture
-pan pipes
-pedal
-pennywhistle
-percussion
-perfect pitch
-pianissimo
-piano
-pianoforte
+Note
+Oboe
+Ocarina
+Octave
+Oldies
+One-man band
+Opera
+Orchestra
+Organ
+Overture
+Pan pipes
+Pedal
+Pennywhistle
+Percussion
+Perfect pitch
+Pianissimo
+Piano
+Pianoforte
 Pink Floyd
-pitch
-pizzicato
-polka
-pop
-potpourri
-prelude
-prima donna
-punk
+Pitch
+Pizzicato
+Polka
+Pop
+Potpourri
+Prelude
+Prima donna
+Punk
 Queen
 R&B
-ragtime
-rallentando
-rap
-recorder
-rest
-rhythm
+Ragtime
+Rallentando
+Rap
+Recorder
+Rest
+Rhythm
 Rick Astley
-ritornello
-rock 'n' roll
-rockabilly
+Ritornello
+Rock 'n' roll
+Rockabilly
 Rolling Stones
-romantic
-rondo
-saxophone
-score
-segue
-semitone
-sharp
-sheet music
+Romantic
+Rondo
+Saxophone
+Score
+Segue
+Semitone
+Sharp
+Sheet music
 Simon & Garfunkel
-singer
-sitar
-skip
-solo
-sonata
-song
-soprano
-sotto voce
-soul
-staccato
-staff
-stanza
-steel drum
-stereo
+Singer
+Sitar
+Skip
+Solo
+Sonata
+Song
+Soprano
+Sotto voce
+Soul
+Staccato
+Staff
+Stanza
+Steel drum
+Stereo
 Stravinsky
-swing
-synthesizer
-tambourine
-tempo
-tenor
+Swing
+Synthesizer
+Tambourine
+Tempo
+Tenor
 The Beach Boys
 The Beatles
 The Eagles
 The Who
-theremin
-timbre
-time
-timpani
-trap
-treble clef
-triangle
-trill
-triplet
-trombone
-trumpet
-tuba
-turn
-ukulele
-variations
-vibrato
-viola
-violin
-virtuoso
-vivace
-voice
-xylophone
-yodel
-zither
-zydeco
+Theremin
+Timbre
+Time
+Timpani
+Trap
+Treble clef
+Triangle
+Trill
+Triplet
+Trombone
+Trumpet
+Tuba
+Turn
+Ukulele
+Variations
+Vibrato
+Viola
+Violin
+Virtuoso
+Vivace
+Voice
+Xylophone
+Yodel
+Zither
+Zydeco

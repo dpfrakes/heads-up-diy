@@ -1,22 +1,23 @@
 Creation
 Garden of Eden
-The Fall of Man
+Original Sin
 Noah's Ark
-The Tower of Babel
-The Ten Commandments
+Tower of Babel
+Ten Commandments
 Tabernacle
 Ark of the Covenant
-Sacrifices and Offerings
-Exodus from Egypt
+Sacrifice
+Offering
 Wilderness
 Promised Land
-Babylonian Exile
-Return from Exile
-Wisdom Literature
-Messianic Prophecies
+Babylon
+Exile
+Egypt
+Wisdom
+Messiah
 Sermon on the Mount
-Parables of Jesus
-Miracles of Jesus
+Parable
+Miracle
 Last Supper
 Crucifixion
 Resurrection
@@ -36,20 +37,23 @@ Crossing of the Red Sea
 The Wisdom of Solomon
 The Valley of Dry Bones
 The Good Samaritan
-Zacchaeus' Conversion
-The Transfiguration
+Zacchaeus
+Transfiguration
+Trinity
+Doxology
 Palm Sunday
 Lent
 Advent
 Christmas
 The Betrayal of Jesus
-The Trial of Jesus
+Pontius Pilate
+Caesar Augustus
+Roman Empire
+Centurion
 The Road to Emmaus
 The Great Commission
 Road to Damascus
-Lydia's Conversion
-Timothy's Training
-Shipwreck of Paul
+Shipwreck
 The Armor of God (Ephesians 6)
 The Fruits of the Spirit (Galatians 5)
 The Prodigal Son
@@ -159,3 +163,54 @@ Mission
 Communion
 Eucharist
 Baptism
+Donkey
+Lutheran
+Roman Catholic
+Presbyterian
+Baptist
+Pentecostal
+Methodist
+Episcopalian
+ELCA
+LCMS
+Processional
+Recessional
+Kyrie
+Gloria
+Nicene Creed
+Athanasian Creed
+Benediction
+Agnus Dei
+Cross
+Prayer
+Father
+Son
+Holy Spirit
+Disciple
+Worship
+Sermon
+Parable
+Missionary
+Sin
+Easter
+Deacon
+Priest
+Pastor
+Martyr
+Cathedral
+Basilica
+Vatican
+Pope
+Bishop
+Cardinal
+Sacrament
+Nativity
+Apostle
+Grace
+Mercy
+Peace
+Love
+Joy
+Bible
+Old Testament
+New Testament

@@ -1,180 +1,177 @@
-wheel
-printing press
-penicillin
-compass
-light bulb
-telephone
-internal combustion engine
-internet
-nails
-fire
-screws
-concrete
-magnifying glass
-telescope
-batteries
-airplane
-refrigerator
-vaccines
-x-rays
-boats
-spear
-beds
-beads
-arrows
-clothing
-glue
-shoes
-flute
-weaving
-rope
-bread
-ceramics
-domestication of dogs
-pottery
-fishing hooks
-dog sled
-well
-bricks
-sheep
-rice
-sailing
-writing
-irrigation
-kilm
-plumbing
-anesthesia
-ploughing
-tattoos
+Wheel
+Printing press
+Penicillin
+Compass
+Light bulb
+Telephone
+Internal combustion engine
+Internet
+Nails
+Fire
+Screws
+Concrete
+Magnifying glass
+Telescope
+Batteries
+Airplane
+Refrigerator
+Vaccines
+X-rays
+Boats
+Spear
+Beds
+Beads
+Arrows
+Clothing
+Glue
+Shoes
+Flute
+Weaving
+Rope
+Bread
+Ceramics
+Domestication of dogs
+Pottery
+Fishing hooks
+Dog sled
+Well
+Bricks
+Sheep
+Rice
+Sailing
+Writing
+Irrigation
+Kilm
+Plumbing
+Anesthesia
+Ploughing
+Tattoos
 (metal) casting
-smelting
-swords
-papyrus
-receipt
-ruler
-hat
-city
-sewage
-docks
-puppetry
-fork
-dictionary
-protractor
-chariot
-fountain
-scissors
-alphabet
-sundial
-rubber
-concrete
-distillation
-saddle
-crossbow
-windmill
-coins
-high carbon steel
-prosthetic limbs
-lighthouse
-catapult
-cast iron
-camera
-wheelbarrow
-zero
-vending machines
-toilet paper
-toothbrush
-gunpowder
-playing cards
-fountain pen
-fireworks
-buttons
-eyeglasses
-cannon
-telescope
-stethoscope
-canning
-telegraph
-match
-lighter
+Smelting
+Swords
+Papyrus
+Receipt
+Ruler
+Hat
+City
+Sewage
+Docks
+Puppetry
+Fork
+Dictionary
+Protractor
+Chariot
+Fountain
+Scissors
+Alphabet
+Sundial
+Rubber
+Concrete
+Distillation
+Saddle
+Crossbow
+Windmill
+Coins
+Prosthetic limbs
+Lighthouse
+Catapult
+Cast iron
+Camera
+Wheelbarrow
+Zero
+Vending machines
+Toilet paper
+Toothbrush
+Gunpowder
+Playing cards
+Fountain pen
+Fireworks
+Buttons
+Eyeglasses
+Cannon
+Telescope
+Stethoscope
+Canning
+Telegraph
+Match
+Lighter
 Braille
-lawn mower
+Lawn mower
 Morse code
-blueprint
-safety pin
-pasteurization
-barbed wire
-dynamite
-vinyl
-stainless steel
-metal detector
-bicycle
-ballpoint pen
-zipper
-cardboard box
-chlorofluorocarbons
-surgical masks
-radio
+Blueprint
+Safety pin
+Pasteurization
+Barbed wire
+Dynamite
+Vinyl
+Stainless steel
+Metal detector
+Bicycle
+Ballpoint pen
+Zipper
+Cardboard box
+Surgical masks
+Radio
 Zeppelin
-television
-plastic
-tanks
-nuclear fission
+Television
+Plastic
+Tanks
+Nuclear fission
 FM radio
-electron microscope
-microwave oven
-intercontinental ballistic missile
-atomic bomb
-radiocarbon dating
-ejector seat
-video tape recorder
-hovercraft
-video game
-laser
-personal computer
-satellite
-atomic clock
-transistor
-Shinkansen (bullet train)
-floppy disk
-space station
+Electron microscope
+Microwave oven
+Intercontinental ballistic missile
+Atomic bomb
+Carbon dating
+Ejector seat
+Video tape recorder
+Hovercraft
+Video game
+Laser
+Personal computer
+Satellite
+Atomic clock
+Transistor
+Bullet train
+Floppy disk
+Space station
 Rubik's cube
-self-driving car
+Self-driving car
 Global Positioning System (GPS)
-touchscreen
-microprocessor
+Touchscreen
+Microprocessor
 World Wide Web (WWW)
-cell phone
+Cell phone
 CD-ROM
 Space Shuttle
 Tetris
 Bluetooth
-sim card
+Sim card
 DVD
 MP3
-walkman
+Walkman
 Blu-ray
 Xbox
 Playstation
 Netflix
-iPhone
+IPhone
 YouTube
-podcast
+Podcast
 Kindle
-blockchain
+Blockchain
 Twitch
 CRISPR
 NFT
-quantum computer
-mechanical clock
-hourglass
-steam engine
-railways
-steamboat
-photography
-reaper
-automobile
-artificial intelligence (AI)
+Quantum computer
+Mechanical clock
+Hourglass
+Steam engine
+Railways
+Steamboat
+Photography
+Reaper
+Automobile
+Artificial intelligence (AI)
 CRISPR
-smartphones
-drone
-big data
+Smartphones
+Drone

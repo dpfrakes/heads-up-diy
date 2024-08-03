@@ -134,7 +134,6 @@ Battleship
 Destroyer
 Lockheed Martin
 Boeing
-SAIC
 Leidos
 Northrop Grumman
 Raytheon

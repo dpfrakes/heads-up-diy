@@ -1,125 +1,125 @@
-aisle
-album
-altar
-anniversary
-bachelor
-bachelor party
-bachelorette
-bachelorette party
-band
-bar
-beach
-best man
-blender
-blessing
-blue
-borrowed
-bouquet
-bouquet toss
-boutonniere
-bridal shower
-bride
-bridesmaid
-budget
-cake
-cake cutting
-cake topper
-candles
-carriage
-caterer
-celebrant
-centerpiece
-ceremony
-champagne
-chapel
-checklist
-chicken or steak?
-choreography
-church
-countdown
-couple
-dance
-dance floor
-date
-decorations
-destination
-devotion
-diamond
-dinner
+Aisle
+Album
+Altar
+Anniversary
+Bachelor
+Bachelor party
+Bachelorette
+Bachelorette party
+Band
+Bar
+Beach
+Best man
+Blender
+Blessing
+Blue
+Borrowed
+Bouquet
+Bouquet toss
+Boutonniere
+Bridal shower
+Bride
+Bridesmaid
+Budget
+Cake
+Cake cutting
+Cake topper
+Candles
+Carriage
+Caterer
+Celebrant
+Centerpiece
+Ceremony
+Champagne
+Chapel
+Checklist
+Chicken or steak?
+Choreography
+Church
+Countdown
+Couple
+Dance
+Dance floor
+Date
+Decorations
+Destination
+Devotion
+Diamond
+Dinner
 DJ
-dress
-family
-first dance
-florist
-flower girl
-flowers
-frosting
-garter
-getaway car
-gift
-gold
-groom
-groomsmen
-guest
-guest book
-hashtag
-hen night
-honeymoon
-hotel
-household
+Dress
+Family
+First dance
+Florist
+Flower girl
+Flowers
+Frosting
+Garter
+Getaway car
+Gift
+Gold
+Groom
+Groomsmen
+Guest
+Guest book
+Hashtag
+Hen night
+Honeymoon
+Hotel
+Household
 I do
-institution
-invitations
-ivory
-joy
-lace
-limousine
-live music
-love
-maid of honor
-makeup artist
-marriage
-marriage license
-memories
-menu
+Institution
+Invitations
+Ivory
+Joy
+Lace
+Limousine
+Live music
+Love
+Maid of honor
+Makeup artist
+Marriage
+Marriage license
+Memories
+Menu
 Mr. & Mrs.
-new
-old
-party
-photo booth
-photographer
-pray
-priest
-proposal
-reception
-registry
-rehersal
-rehersal dinner
-ring bearer
-rings
-rose
+New
+Old
+Party
+Photo booth
+Photographer
+Pray
+Priest
+Proposal
+Reception
+Registry
+Rehersal
+Rehersal dinner
+Ring bearer
+Rings
+Rose
 RSVP
-save the date
-seating chart
-shoes
-singer
-sparklers
-speech
-stag night
-suit
-thank you cards
-theme
-tie
-toast
-toaster
-tradition
-tuxedo
-veil
-venue
-videographer
-vow renewal
-vows
-website
-wedding
-white
-pew
+Save the date
+Seating chart
+Shoes
+Singer
+Sparklers
+Speech
+Stag night
+Suit
+Thank you cards
+Theme
+Tie
+Toast
+Toaster
+Tradition
+Tuxedo
+Veil
+Venue
+Videographer
+Vow renewal
+Vows
+Website
+Wedding
+White
+Pew

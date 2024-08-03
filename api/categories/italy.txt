@@ -1,77 +1,77 @@
-margherita
-carbonara
-gelato
-olive oil
-prosciutto
-pesto
-cannoli
-pasta
-limoncello
-chianti
-caprese
-parmesan cheese
-risotto
-arancini
-calzone
-tiramisu
-aperitivo
-panzanella
-gnocchi
-grappa
-espresso
-frittata
-pizza
-mozzarella
-pecorino
+Margherita
+Carbonara
+Gelato
+Olive oil
+Prosciutto
+Pesto
+Cannoli
+Pasta
+Limoncello
+Chianti
+Caprese
+Parmesan cheese
+Risotto
+Arancini
+Calzone
+Tiramisu
+Aperitivo
+Panzanella
+Gnocchi
+Grappa
+Espresso
+Frittata
+Pizza
+Mozzarella
+Pecorino
 Bolognese
 Nutella
-eggplant parmesan
-spaghetti
-garlic
-focaccia
-bruschetta
-ragù
-panino
-ciabatta
-quattro formaggi
-farfalle
-lasagna
-linguine
-ravioli
-tortellini
-ricotta
-alfredo
-guanciale
-salami
-zucchini
+Eggplant parmesan
+Spaghetti
+Garlic
+Focaccia
+Bruschetta
+Ragù
+Panino
+Ciabatta
+Quattro formaggi
+Farfalle
+Lasagna
+Linguine
+Ravioli
+Tortellini
+Ricotta
+Alfredo
+Guanciale
+Salami
+Zucchini
 Tic Tac
-prosecco
-asiago
-burrata
-mascarpone
-panettone
-pandoro
-panna cotta
-biscotti
-polenta
-caffè americano
-caffè macchiato
-cappuccino
-affogato
-taralli
-seven hills
-strawberry tree
-wolf
-green, white, and red (tricolore)
-opera
-carnival
-masks
-glassblowing
-fashion
-gondola
+Prosecco
+Asiago
+Burrata
+Mascarpone
+Panettone
+Pandoro
+Panna cotta
+Biscotti
+Polenta
+Caffè americano
+Caffè macchiato
+Cappuccino
+Affogato
+Taralli
+Seven hills
+Strawberry tree
+Wolf
+Green, white, and red (tricolore)
+Opera
+Carnival
+Masks
+Glassblowing
+Fashion
+Gondola
 Fiat
 Fiat Cinquecento
-soccer
+Soccer
 Gucci
 Valentino
 Ferrari
@@ -90,52 +90,52 @@ Leonardo da Vinci
 Marco Polo
 Galileo
 Cristoforo Colombo (Christopher Columbus)
-piazza
+Piazza
 La Dolce Vita
 La vita è bella (Life Is Beautiful)
 (electric) battery
-volt
-peninsula
-boot
-internal combustion engine
-bank
-barometer
+Volt
+Peninsula
+Boot
+Internal combustion engine
+Bank
+Barometer
 (programmable) calculator
-casino
-cello
-confetti
+Casino
+Cello
+Confetti
 (dental) fillings
-encyclopedia
-eyeglasses
-firefighting
-grappling hook
-mandolin
-microscope
-mile (unit of measurement)
-newspaper
-nuclear reactor
-parachute
-piano
-radio
-pistol
-revolver
-staff (music term)
-tarot cards
-torpedo
-typewriter
-university
-viola
-watermark
+Encyclopedia
+Eyeglasses
+Firefighting
+Grappling hook
+Mandolin
+Microscope
+Mile (unit of measurement)
+Newspaper
+Nuclear reactor
+Parachute
+Piano
+Radio
+Pistol
+Revolver
+Staff (music term)
+Tarot cards
+Torpedo
+Typewriter
+University
+Viola
+Watermark
 Baroque
 Rococo
 Machiavelli
-sonnet
-methane
-fencing
-ballet
-broccoli
-breadsticks
-bocce
+Sonnet
+Methane
+Fencing
+Ballet
+Broccoli
+Breadsticks
+Bocce
 Amalfi Coast
 Bologna
 Calabria
