@@ -2,7 +2,9 @@ package com.dpfrakes.headsupdiy
 
 import android.content.Intent
 import android.os.Bundle
+import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
+import androidx.appcompat.widget.SearchView
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.dpfrakes.headsupdiy.AppData.selectedCategory
@@ -16,6 +18,7 @@ class GameMenuActivity : AppCompatActivity() {
 
         val recyclerView = findViewById<RecyclerView>(R.id.recyclerView)
         recyclerView.layoutManager = LinearLayoutManager(this)
+        val searchView = findViewById<SearchView>(R.id.searchView)
 
         // TODO make another API to list all categories available on GitHub and build menu dynamically
         val itemList = createItemList()
@@ -28,6 +31,19 @@ class GameMenuActivity : AppCompatActivity() {
             startActivity(intent)
         }
         recyclerView.adapter = adapter
+
+        searchView.setOnQueryTextListener(object : SearchView.OnQueryTextListener {
+            override fun onQueryTextSubmit(query: String?): Boolean {
+                Log.d("SearchView", "onQueryTextSubmit: $query")
+                return false
+            }
+
+            override fun onQueryTextChange(newText: String?): Boolean {
+                Log.d("SearchView", "onQueryTextChange: $newText")
+                adapter.filter(newText.orEmpty())
+                return true
+            }
+        })
     }
 
     private fun createItemList(): List<ImageItem> {
@@ -43,6 +59,7 @@ class GameMenuActivity : AppCompatActivity() {
             ImageItem(R.drawable.emojis, "Emojis", "emojis"),
             ImageItem(R.drawable.finance, "Finance", "finance"),
             ImageItem(R.drawable.foodanddrink, "Food and Drink", "foodanddrink"),
+            ImageItem(R.drawable.govtpolitics, "Government & Politics", "govtpolitics"),
             ImageItem(R.drawable.homeimprovement, "Home Improvement", "homeimprovement"),
             ImageItem(R.drawable.techinventions, "Tech & Inventions", "techinventions"),
             ImageItem(R.drawable.italy, "Italy", "italy"),

@@ -1,0 +1,200 @@
+Democracy
+Republic
+Constitution
+Senate
+House of Representatives
+Parliament
+Prime Minister
+President
+Congress
+Cabinet
+Election
+Ballot
+Voting Booth
+Campaign
+Political Party
+Conservative
+Liberal
+Independent
+Debate
+Legislature
+Judiciary
+Executive
+Federalism
+State Government
+Local Government
+Mayor
+Governor
+Supreme Court
+Justice
+Law
+Bill
+Veto
+Amendment
+Policy
+Regulation
+Taxation
+Budget
+Deficit
+Surplus
+Public Opinion
+Lobbyist
+Interest Group
+Activism
+Civil Rights
+Human Rights
+Immigration
+National Security
+Foreign Policy
+Diplomat
+Ambassador
+Treaty
+Alliance
+War
+Peace
+Military
+Defense
+Intelligence
+Espionage
+Surveillance
+Bureaucracy
+Red Tape
+Transparency
+Corruption
+Scandal
+Whistleblower
+Impeachment
+Filibuster
+Gerrymandering
+Constituency
+Polling
+Approval Rating
+Media
+Press Conference
+Public Address
+State of the Union
+Inauguration
+Referendum
+Recall
+Lobbying
+Civic Duty
+Civil Disobedience
+Protest
+Demonstration
+Petition
+Grassroots
+Incumbent
+Challenger
+Primary Election
+General Election
+Swing State
+Electoral College
+Landslide Victory
+Popular Vote
+Coalition
+Minority Government
+Majority Rule
+Checks and Balances
+Separation of Powers
+Rule of Law
+Due Process
+Habeas Corpus
+Judicial Review
+Civil Liberties
+Executive Order
+Bureaucrat
+Public Servant
+Constituent
+Legislation
+Ordinance
+Mandate
+Resolution
+Caucus
+Platform
+Plank
+Incumbency Advantage
+Political Capital
+Spin Doctor
+Campaign Manager
+Pollster
+Policy Analyst
+Think Tank
+Political Consultant
+Advocacy
+Reform
+Bipartisanship
+Partisanship
+Polarization
+Compromise
+Negotiation
+Diplomatic Immunity
+Consulate
+Embassy
+Foreign Aid
+Sanctions
+Trade Agreement
+Immigration Policy
+Asylum
+Refugee
+Nationalism
+Patriotism
+Populism
+Socialism
+Capitalism
+Communism
+Fascism
+Anarchy
+Federalist
+Anti-Federalist
+Suffrage
+Emancipation
+George Washington
+Thomas Jefferson
+Abraham Lincoln
+Franklin D. Roosevelt
+John F. Kennedy
+Ronald Reagan
+Barack Obama
+Donald Trump
+Joe Biden
+Hillary Clinton
+Bernie Sanders
+Nancy Pelosi
+Mitch McConnell
+Alexandria Ocasio-Cortez
+Ted Cruz
+Kamala Harris
+Mike Pence
+Condoleezza Rice
+Colin Powell
+Ruth Bader Ginsburg
+Martin Luther King Jr.
+Elizabeth Warren
+Lyndon B. Johnson
+Dwight D. Eisenhower
+Richard Nixon
+Winston Churchill (United Kingdom)
+Margaret Thatcher (United Kingdom)
+Angela Merkel (Germany)
+Vladimir Putin (Russia)
+Xi Jinping (China)
+Nelson Mandela (South Africa)
+Mahatma Gandhi (India)
+Jawaharlal Nehru (India)
+Indira Gandhi (India)
+Justin Trudeau (Canada)
+Emmanuel Macron (France)
+François Hollande (France)
+Charles de Gaulle (France)
+Benito Mussolini (Italy)
+Silvio Berlusconi (Italy)
+Shinzo Abe (Japan)
+Jair Bolsonaro (Brazil)
+Evo Morales (Bolivia)
+Fidel Castro (Cuba)
+Che Guevara (Argentina/Cuba)
+Hugo Chávez (Venezuela)
+Nicolás Maduro (Venezuela)
+Recep Tayyip Erdoğan (Turkey)
+Golda Meir (Israel)
+Yitzhak Rabin (Israel)

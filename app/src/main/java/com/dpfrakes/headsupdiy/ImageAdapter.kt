@@ -1,5 +1,6 @@
 package com.dpfrakes.headsupdiy
 
+import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -12,6 +13,8 @@ class ImageAdapter(
     private val onItemClick: (ImageItem) -> Unit
 ) : RecyclerView.Adapter<ImageAdapter.ImageViewHolder>() {
 
+    private var filteredList = itemList
+
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ImageViewHolder {
         val view = LayoutInflater.from(parent.context)
             .inflate(R.layout.item_image_with_text, parent, false)
@@ -19,14 +22,29 @@ class ImageAdapter(
     }
 
     override fun onBindViewHolder(holder: ImageViewHolder, position: Int) {
-        val item = itemList[position]
+        val item = filteredList[position]
         holder.imageView.setImageResource(item.imageResId)
         holder.textView.text = item.text
+        holder.bind(item)
     }
 
     override fun getItemCount(): Int {
-        return itemList.size
+        return filteredList.size
     }
+
+    fun filter(query: String) {
+        filteredList = if (query.isEmpty()) {
+            itemList
+        } else {
+            itemList.filter {
+                it.text.contains(query, ignoreCase = true)
+            }
+        }
+        Log.d("ImageAdapter", "Filtered List: $filteredList")
+        notifyDataSetChanged()
+        Log.d("ImageAdapter", "Called notifyDataSetChanged!")
+    }
+
 
     inner class ImageViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
         val imageView: ImageView = itemView.findViewById(R.id.imageView)
@@ -40,6 +58,10 @@ class ImageAdapter(
                     onItemClick(itemList[position])
                 }
             }
+        }
+
+        fun bind(imageItem: ImageItem) {
+            itemView.findViewById<TextView>(R.id.textView).text = imageItem.text
         }
     }
 }
