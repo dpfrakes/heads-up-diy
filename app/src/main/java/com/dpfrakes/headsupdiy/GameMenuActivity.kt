@@ -31,41 +31,41 @@ class GameMenuActivity : AppCompatActivity() {
     }
 
     private fun createItemList(): List<ImageItem> {
-        val itemList: MutableList<ImageItem> = ArrayList()
+        val itemList = listOf(
+            ImageItem(R.drawable.animalkingdom, "Animal Kingdom", "animalkingdom"),
+            ImageItem(R.drawable.bible, "The Bible", "bible"),
+            ImageItem(R.drawable.boomers, "Boomers", "boomers"),
+            ImageItem(R.drawable.brandnames, "Brand Names", "brandnames"),
+            ImageItem(R.drawable.childrensbooks, "Childrens Books", "childrensbooks"),
+            ImageItem(R.drawable.christmasmovies, "Christmas Movies", "christmasmovies"),
+            ImageItem(R.drawable.disney, "Disney", "disney"),
+            ImageItem(R.drawable.ducknames, "Duck Names", "ducknames"),
+            ImageItem(R.drawable.emojis, "Emojis", "emojis"),
+            ImageItem(R.drawable.finance, "Finance", "finance"),
+            ImageItem(R.drawable.foodanddrink, "Food and Drink", "foodanddrink"),
+            ImageItem(R.drawable.homeimprovement, "Home Improvement", "homeimprovement"),
+            ImageItem(R.drawable.techinventions, "Tech & Inventions", "techinventions"),
+            ImageItem(R.drawable.italy, "Italy", "italy"),
+            ImageItem(R.drawable.military, "Military", "military"),
+            ImageItem(R.drawable.millennials, "Millennials", "millennials"),
+            ImageItem(R.drawable.movies, "Movies", "movies"),
+            ImageItem(R.drawable.musicalinstruments, "Musical Instruments", "musicalinstruments"),
+            ImageItem(R.drawable.allthingsmusic, "All Things Music", "allthingsmusic"),
+            ImageItem(R.drawable.occupations, "Occupations", "occupations"),
+            ImageItem(R.drawable.outdoors, "Outdoors", "outdoors"),
+            ImageItem(R.drawable.philosophy, "Philosophy", "philosophy"),
+            ImageItem(R.drawable.spaceexploration, "Space Exploration", "spaceexploration"),
+            ImageItem(R.drawable.startrek, "Star Trek", "startrek"),
+            ImageItem(R.drawable.starwars, "Star Wars", "starwars"),
+            ImageItem(R.drawable.technology, "Technology", "technology"),
+            ImageItem(R.drawable.the80s, "The '80s", "the80s"),
+            ImageItem(R.drawable.the90s, "The '90s", "the90s"),
+            ImageItem(R.drawable.travelus, "Travel (US)", "travelus"),
+            ImageItem(R.drawable.travelworld, "Travel (World)", "travelworld"),
+            ImageItem(R.drawable.weddings, "Weddings", "weddings"),
 
-        itemList.add(ImageItem(R.drawable.animalkingdom, "Animal Kingdom", "animalkingdom"))
-        itemList.add(ImageItem(R.drawable.bible, "The Bible", "bible"))
-        itemList.add(ImageItem(R.drawable.boomers, "Boomers", "boomers"))
-        itemList.add(ImageItem(R.drawable.brandnames, "Brand Names", "brandnames"))
-        itemList.add(ImageItem(R.drawable.childrensbooks, "Childrens Books", "childrensbooks"))
-        itemList.add(ImageItem(R.drawable.christmasmovies, "Christmas Movies", "christmasmovies"))
-        itemList.add(ImageItem(R.drawable.disney, "Disney", "disney"))
-        itemList.add(ImageItem(R.drawable.ducknames, "Duck Names", "ducknames"))
-        itemList.add(ImageItem(R.drawable.emojis, "Emojis", "emojis"))
-        itemList.add(ImageItem(R.drawable.finance, "Finance", "finance"))
-        itemList.add(ImageItem(R.drawable.foodanddrink, "Food and Drink", "foodanddrink"))
-        itemList.add(ImageItem(R.drawable.homeimprovement, "Home Improvement", "homeimprovement"))
-        itemList.add(ImageItem(R.drawable.techinventions, "Tech & Inventions", "techinventions"))
-        itemList.add(ImageItem(R.drawable.italy, "Italy", "italy"))
-        itemList.add(ImageItem(R.drawable.military, "Military", "military"))
-        itemList.add(ImageItem(R.drawable.millennials, "Millennials", "millennials"))
-        itemList.add(ImageItem(R.drawable.movies, "Movies", "movies"))
-        itemList.add(ImageItem(R.drawable.musicalinstruments, "Musical Instruments", "musicalinstruments"))
-        itemList.add(ImageItem(R.drawable.allthingsmusic, "All Things Music", "allthingsmusic"))
-        itemList.add(ImageItem(R.drawable.occupations, "Occupations", "occupations"))
-        itemList.add(ImageItem(R.drawable.outdoors, "Outdoors", "outdoors"))
-        itemList.add(ImageItem(R.drawable.philosophy, "Philosophy", "philosophy"))
-        itemList.add(ImageItem(R.drawable.spaceexploration, "Space Exploration", "spaceexploration"))
-        itemList.add(ImageItem(R.drawable.startrek, "Star Trek", "startrek"))
-        itemList.add(ImageItem(R.drawable.starwars, "Star Wars", "starwars"))
-        itemList.add(ImageItem(R.drawable.technology, "Technology", "technology"))
-        itemList.add(ImageItem(R.drawable.the80s, "The '80s", "the80s"))
-        itemList.add(ImageItem(R.drawable.the90s, "The '90s", "the90s"))
-        itemList.add(ImageItem(R.drawable.travelus, "Travel (US)", "travelus"))
-        itemList.add(ImageItem(R.drawable.travelworld, "Travel (World)", "travelworld"))
-        itemList.add(ImageItem(R.drawable.weddings, "Weddings", "weddings"))
-
-        itemList.add(ImageItem(R.drawable.doitlive, "Do It Live", "doitlive"))
+            ImageItem(R.drawable.doitlive, "Do It Live", "doitlive")
+        )
 
         return itemList
     }
