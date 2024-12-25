@@ -1,424 +1,1100 @@
-tree
-carol
-holiday
-Santa Claus
-gift giving
-festive
-December
-Christmas Eve
-mistletoe
-lights
-decorations
-winter
-Christmas Day
-Dec 25
-birth
-Jesus
-vigil
-nativity
-traditions
-bells
-Midnight Mass
-Holy Night
-"Silent Night"
-singing
-wrapping paper
-tinsel
-trimming
-ornaments
-sleigh
-reindeer
-Rudolph
-Dasher
-Dancer
-Prancer
-Vixen
-Comet
-Cupid
-Donner
-Blitzen
-Father Christmas
-Saint Nicholas
-illumination
-cookie swap
-white elephant
-liturgy
-red
-green
-Advent
-Advent calendar
-violet
-choir
-Mary
-manger
-Joseph
-shepherd
-angels
-stable
-grotto
-Magi
-Bethlehem
-Advent wreath
-wreath
-candle
-play
-claymation
-Christmas special
-vespers
-Eucharist
-Feast of the Seven Fishes
-Twelve Days of Christmas
-family
-celebration
-meatless
-panettone
-Twelve Apostles
-Mrs. Claus
-Epiphany
-"It's a Wonderful Life"
-Chinese food
-Christmas truce
-Apollo 8
-Earthrise
-holly
-evergreen
-fir
-pine
-pinecone
-Christmas card
-presents
+à la mode
+açaí berries
+affogato
+al dente
+alfalfa
+alfredo
+almond
+almond milk
+amaretti
+ambrosia salad
+anchovies
+angel food cake
+angel hair
+animal crackers
+ants on a log
+apple
+apple crisp
+apple dumpling
+apple fritter
+apple pie
+apple pie with cheddar cheese
+apple strudel
+applesauce
+apricot
+arancini
+arepa
+arrabbiata
+artichoke
+artichoke dip
+arugula
+asiago
+asparagus
+Atlantic Beach pie
+avocado
+avocado toast
+baba ganoush
+babka
+baby back ribs
+bacon
+bacon cheeseburger
+bacon, egg, and cheese
+bagel
+baguette
+baked
+Baked Alaska
+baked beans
+baked potato
+baked ziti
+bakewell tart
+baklava
+banana
+banana bread
+banana cream pie
+banana pudding
+banana split
+Bananas Foster
+bangers and mash
+bánh mì
+bannock
+barbecue
+barbecue sauce
+Barilla
+basil
+basmati rice
+bass
+Battenberg cake
+bay leaf
+bean pie
+bear claw
+beaver tail
+beef
+beef jerky
+beef stroganoff
+beef Wellington
+beer cheese
+beet
+beignet
+Belgian waffle
+bell pepper
+Ben & Jerry's
+Berliner
+Betty Crocker
+bibimbap
+bigoli
+birthday cake
+biryani
+biscotti
+biscuit
+biscuits and gravy
+bison burger
+Bisquick
+black and white cookie
+black bean burger
+black bottom pie
+black bread
+Black Forest cake
+black pudding
+black tea
+blackberry
+black-eyed pea
+blackout cake
+blondie
+blood orange
+blooming onion
+BLT
+blue cheese
+blue cheese dressing
+blueberry
+blueberry pie
+boba tea
+boiled
+bok choy
+bologna
+Bolognese
+bonbon
+boneless chicken wings
+borscht
+Boston cream pie
+bouillabaisse
+bouillon
+boule
+boysenberry
+boysenberry pie
+bratwurst
+bread
+bread and butter pickle
+bread bowl
+bread pudding
+breadstick
+breakfast burrito
+breakfast sandwich
+breakfast sausage
+bridie
+brie
+brioche
+broccoli
+broccoli cheddar soup
+broccoli rabe
+Brown Betty
+brownie
+Brunswick stew
+bruschetta
+Brussels sprouts
+bubble gum
+buckeyes
+buffalo wing
+bulgogi
+bumbleberry pie
+bun
+bundt cake
+burrata
+burrito
+burrito bowl
+butter
+butter cookie
+butter tart
+buttermilk
+butternut squash
+butternut squash soup
+butterscotch
+cabbage
+cabbage roll
+cacio e pepe
+Caesar salad
+cake
+cake donut
+California roll
+Campbell's
+candied fruit
+candy
+candy apply
 candy cane
-Frosty the Snowman
-jolly
-Grinch
-elves
-stocking stuffers
-dinner
-winter wonderland
-garland
-Noel
-Feliz Navidad
-Merry Christmas
-New Year
-New Year's Eve
-"You're a Mean On, Mr. Grinch"
-"How the Grinch Stole Christmas!"
-shopping
-seasonal
-Yule log
-Yule
-Scrooge
-"A Christmas Carol"
-snowflake
-snowman
-scarf
-mittens
-ice skating
-skiing
-Star of Bethlehem
-gold
-frankincense
-myrrh
-miracle
-prophecy
-humbug
-messiah
-Yuletide
-toys
-fruitcake
-poinsettia
-party
-gala
-Boxing Day
-merrymaking
-eggnog
-cranberries
-ham
-pudding
-gingerbread man
-mincemeat
-stuffing
-hot cocoa
-mulled wine
-gingerbread house
-lebkuchen
-stollen
-pizzelle
-pandoro
+candy corn
+candy hearts
+canelé
+cannoli
+cantaloupe
+cappuccino
+caprese
+caramel
+carbonara
+carne asada
+carnitas
+Carolina reaper
+carpaccio
+carrot
+carrot cake
+caviar
+cayenne
+celery
+century egg
+cereal
+ceviche
+chai
+chai tea latte
+challah
+chamomile
 champagne
-apple cider
-pie
-dressing
-persimmon
-nutcracker
-sugar cookies
-winter solstice
-stockings
-Hallmark movies
-"Elf"
-"Die Hard"
-"Home Alone"
-"Miracle on 34th Street"
-"A Christmas Story"
-"A Charlie Brown Christmas"
-"The Nightmare Before Christmas"
-"Love Actually"
-"The Polar Express"
-Jack Frost
-"The Little Drummer Boy"
-"All I Want for Christmas Is You"
-"Last Christmas"
-"Fairytale of New York"
-"I'll Be Home for Christmas"
-"Have Yourself a Merry Little Christmas"
-"Rockin' Around the Christmas Tree"
-"Santa Claus is Comin' to Town"
-"It's Beginning to Look a Lot Like Christmas"
-"Do They Know It's Christmas?"
-"Let It Snow! Let It Snow! Let It Snow!"
-"O Come, All Ye Faithful"
-"Do You Hear What I Hear?"
-"Santa Baby"
-Ralphie
-Tiny Tim
-Ghost of Christmas Past
-Buddy the Elf
-abominable snowman
-George Bailey
-Balthazar
-Krampus
-The Little Match Girl
-Three Kings
-Coca-Cola polar bear
-Bob Cratchit
-The Mouse King
-Sugar Plum Fairy
-donkey
-Elf on the Shelf
-Ghost of Christmas Yet to Come
-Ghost of Christmas Present
-cinnamon
-cloves
-nutmeg
-allspice
-ginger
-vanilla
-peppermint
-chocolate
-velvet
-tree topper
-snow globe
-icicles
-coat
-mantel
-ribbon
-"Deck the Halls"
-"Silver Bells"
-"Here Comes Santa Claus"
-"Hallelujah"
-"God Rest Ye Merry Gentlemen"
-"Carol of the Bells"
-"Jingle Bells"
-"Jingle Bell Rock"
-"I Want a Hippopotamus for Christmas"
-"Gloria (in excelsis Deo)"
-snowball fight
-pajamas
-salting roads
-Nor'easter
-shoveling the driveway
-snow delays
-gloves
-snowplow
-sack
-decorating the tree
-Christmas tree farm
-toy drive
-writing a letter to Santa
-putting up Christmas lights
-marshmallows
-caramels
-baking cookies
-ugly sweater
-stuffed animal
-NORAD
-tracking Santa Claus
-holiday market
-sitting on Santa's lap
-parade
-sledding
-Secret Santa
-soup kitchen
-movie marathon
-bingo
-pickle
-matching outfits
-Charlie Brown
-The Chipmunks
-bow
-fireplace
-window shopping
-model trains
-Santa hat
-photoshoot
-cozy
-volunteering
-casserole
-drive-through light show
-Angel Tree
-board games
-table runner
-ice sculpture
-egg and sausage casserole
-orange juice
-Thanksgiving
-Black Friday
-ballet
-jigsaw puzzle
-friends
-Kwanzaa
-Hanukkah
-Christmas
-North Pole
-oranges
-fireworks
-Gregorian calendar
-Chinese New Year
-Diwali
-Saint Lucia Day
-Christian
-"Auld Lang Syne"
-watching the ball drop
-grapes
-lentils
-cooking
-wish list
-decorating cookies
-chestnuts
-chimney
-tree skirt
-goose
-Kris Kringle
-merry
-rejoice
-Santa's helpers
-Santa's workshop
-Season's greetings
-Plum pudding
-Xmas
-abundance
-anticipation
-antler
-aroma
-belief
-artificial
-blessing
-boot
-box
-gift bag
-charity
-cheer
-church
-coal
-tree stand
-crackling
-Emmanuel
-generosity
-tidings
-goodwill
-grace
-ivy
-hymn
-Jerusalem
-"Joy to the World"
-"I Saw Three Ships a Sailing"
-Joyeux Noel
-log
-naughty or nice
-popcorn
-partridge
-pear tree
-pageant
-snow angel
-Santa's list
-sweater
-tannenbaum
-toboggan
-Holy Spirit
-vacation
-unwrap
-turkey
-worship
-cold
-warm
-Washington crossing the Delaware
-Battle of Trenton
-Gorbachev's resignation
-Charlemagne's coronation
-James Webb Space Telescope
-Halley's Comet
-2025
-white beard
-"Ho, ho, ho! Merry Christmas!"
-United States Postal Service (USPS)
-department store
-children
-Befana
-Old Man Winter
-sleet
-ice
-blizzard
-slippers
-robes
-mouse
-Ovaltine
-leg lamp
-Oldsmobile
-"The Snowy Day"
-turtleneck
-flannel
-Red Ryder BB gun
-"You'll shoot your eye out!"
-pink bunny pajamas
-Macy's
-hibernation
-turtle doves
-French hens
-seven swans a-swimming
-ten lords a-leaping
-Christmas cactus
-juniper
-pulling crackers
-making a toast
-time capsule
-noisemakers
-paper crown
-blanket
-socks
-Max the Dog
-Whoville
-Cindy Lou Who
-"The Lion, the Witch, and the Wardrobe"
-"Little Blue Truck's Christmas"
-federal holiday
-Rockefeller Center
-Salvation Army
-Finnish Lapland
-home
-ZooLights
-botanical garden
-boat parade
-Scottish Christmas Walk
-molasses
+chapati
+Charleston red rice
+cheddar
+Cheerios
+cheese
+cheese and crackers
+cheese ball
+cheese puffs
+cheeseburger
+cheesecake
+Cheetos
+Chef Boyardee
+cherry
+chess pie
+chewing gum
+Chicago deep-dish pizza
+chicharrón
+chicken
+chicken à la King
+chicken adobo
+chicken and dumplin's
+chicken and rice soup
+chicken and waffles
+chicken feet
+chicken marsala
+chicken noodle soup
+chicken nuggets
+chicken parmesan
+chicken pot pie
+chicken salad
+chicken tenders
+chicken tikka masala
+chicken-fried steak
+chickpea
+chicory
+chiffon pie
+chili
+chimichurri
+chip butty
+chirashi
+chives
+chocolate bar
+chocolate cake
+chocolate chip cookie
+chocolate chip cookie dough ice cream
+chocolate ice cream
+chocolate milk
+chocolate tart
+chocolate-covered potato chips
+chopped liver
+chorizo
+chow mein
+chowder
+churro
+ciabatta
+cilantro
+cinnamon bun
+Cinnamon Toast Crunch
+cioppino
+clam chowder
+clementine
+club sandwich
+Cobb salad
+cobbler
+Coca-Cola
+cocktail sauce
+coconut
+cod
+coddled egg
+coffee
+coleslaw
+collard greens
+congee
+cookie
+Cool Whip
+coq au vin
+corn
+corn chowder
+corn dog
+corn flakes
+corn on the cob
+cornbread
+corndog
+corned beef
+Cornish hen
+cornmeal
+cottage cheese
+cotton candy
+Count Chocula
+couscous
+crab cake
+crab rangoon
+crabapple
+crackers
+cracklings
+cranberry
+cranberry sauce
+crawfish étouffée
+cream
+cream and sugar
+cream cheese
+cream horn
+cream of mushroom soup
+Cream of Wheat
+cream pie
+cream puff
+crêpe
+Crêpes Suzette
+crispy duck
+croissant
+cronut
+croque madame
+croque monsieur
+croquembouche
+croquette
+crouton
+cruller
+crumpet
+Cuban sandwich
+cucumber
+cucumber sandwich
+cupcake
+curly fries
+curry
+currywurst
+custard
+daiquiri
+dan dan noodles
+Danish
+dark chocolate
+dashi
+date
+deep fried
+deli meat
+Denver omelette
+Derby pie
+Detroit pizza
+deviled eggs
+devil's food cake
+digestive
+DiGiorno
+Dijon mustard
+dill
+dill pickle
+dim sum
+dirt cake
+döner kebab
+donut
+donut holes
+doughnut
+Dr. Pepper
+dragon fruit
+duck fat
+dumpling
+durian
+Dutch baby
+Earl Grey
+éclair
+éclair cake
+edamame
+egg drop soup
+egg in a basket
+egg roll
+egg salad
+eggplant
+eggplant parmesan
+eggs Benedict
+eggs Florentine
+elderberry
+Elvis sandwich
+Emmental
+empanada
+enchiladas
+English muffin
+escargot
+espresso
+espresso martini
+fairy bread
+falafel
+farfalle
+fattoush
+fava bean
+fennel
+feta
+fettuccine
+fettucine alfredo
+fig
+Fig Newton
+figgy pudding
+filet mignon
+financier
+finger sandwich
+fish and chips
+fish sauce
+fish tacos
+flan
+flat white
+flatbread
+Florentine
+flourless chocolate cake
+fluffernutter
+focaccia
+foie gras
+fondant
+fondue
+fortune cookie
+fougasse
+frangipane
+Frappuccino
+freeze-dried ice cream
+French dip
+French fries
+French omelette
+French onion soup
+French toast
+frickles
+fried calamari
+fried chicken
+fried chicken sandwich
+fried green tomatoes
+fried mozzarella sticks
+fried okra
+fried plantain
+fried rice
+Frito pie
+frittata
+fritter
+frog's legs
+frozen custard
+frozen yogurt
+fruit
+fruit sours
+fruitcake
+fry sauce
+frybread
 fudge
-bough
-reunion
-exchange
-guest
-snow day
-wonder
-mall
-mall Santa
-"The Golden Compass"
-northern lights
-"The Muppet Christmas Carol"
+full English breakfast
+funeral potatoes
+funnel cake
+fuzzy navel
+galette
+garbanzo
+garlic
+garlic bread
+garum
+gazpacho
+gelato
+General Tso's chicken
+German chocolate cake
+ghost pepper
+gimlet
+gin and tonic
+ginger
+ginger snap
+gingerbread man
+Girl Scouts samoas
+glaze
+gnocchi
+goat
+goat cheese
+goat milk
+gobstopper
+gooey butter cake
+gooseberry
+gouda
+goulash
+graham cracker
+granola
+grape
+grape pie
+grapefruit
+grasshopper pie
+Greek yogurt
+green bean
+green bean casserole
+green curry
+Green Goddess salad
+green papaya salad
+green tea
+grilled
+grilled cheese sandwich
+grits
+guacamole
+guava
+gumbo
+Gushers
+gyoza
+gyro
+habanero
+haggis
+half-smoke
+halibut
+ham
+ham and cheese
+hamburger
+hand pie
+hard boiled egg
+hardtack
+hashbrowns
+Hawaiian buns
+Hawaiian pizza
+hazelnut
+head cheese
+Heinz
+Hershey
+highball
+hoagie
+hoecake
+home fries
+honey
+honey mustard
+honeydew
+horchata
+hot cross bun
+hot dog
+hot dog bun
+hot honey
+hot milk cake
+hot pot
+hot sauce
+hot water crust
+hotdish
+huckleberry
+huevos rancheros
+hummingbird cake
+hummus
+Hungry Jack
+hushpuppy
+ice cream
+ice cream sandwich
+icebox cake
+ice-cream cake
+iced coffee
+iced tea
+icing
+impossible burger
+Italian beef
+Italian ice
+jackfruit
+Jaffa Cakes
+jalapeño popper
+jam
+jam donut
+jambalaya
+Jell-O
+jelly bean
+jelly donut
+jerk chicken
+Jerusalem artichoke
+jícama
+johnnycake
+jollof rice
+Jordan almonds
+Jucy Lucy
+juniper berry
+kaiser roll
+kale
+katsu sando
+ketchup
+kettle corn
+key lime pie
+kielbasa
+King cake
+kiwi
+kouign-amann
+Kraft
+kringle
+Krispy Kreme
+kumquat
+kung pao chicken
+lamb
+Land O'Lakes
+lard
+lasagna
+latte
+lebkuchen
+leek
+leek soup
+lemon
+lemon bar
+lemon curd
+lemon drop
+lemon meringue pie
+lemongrass
+lentil
+lettuce
+lettuce wrap
+licorice
+lima bean
+lime
+linguini
+linguini alle vongole
+Linzer cookie
+liver and onions
+lo mein
+loaded nachos
+lobster bisque
+lobster roll
+loco moco
+Long John
+lotus root
+lox
+lumpia
+lychee
+macaron
+macaroni
+macaroni and cheese
+macaroon
+macchiato
+mackerel
+madeleine
+Mai Tai
+maize
+mandarin
+mango
+mango sticky rice
+Manhattan
+Manhattan clam chowder
+manicotti
+maple syrup
+marble cake
+margarine
+margarita
+marinara
+marjoram
+marmalade
+marmite
+marron glacé
+marshmallow
+martini
+Maryland blue crab
+marzipan
+mascarpone
+mashed potatoes
+matzah
+Matzah ball soup
+mayonnaise
+meatball sub
+meatloaf
+melon
+meringue
+milk
+milk chocolate
+milkshake
+mille-feuille
+mimosa
+mincemeat pie
+minestrone
+mint
+mint chocolate chip ice cream
+mint julep
+miso soup
+Mississippi mud pie
+mocha
+mochi
+mojito
+molten lava cake
+momo
+Mongolian beef
+Monte Cristo
+Monterey Jack
+Moon Pie
+mooncake
+Moose Tracks
+Moravian spice cookies
+morel
+morning bun
+mortadella
+Moscow mule
+mozzarella
+MSG
+Muenster cheese
+muesli
+muffin
+muffuletta
+mussels
+mustard
+mutton
+naan
+nachos
+napa cabbage
+Napoleon
+Neapolitan ice cream
+nectarine
+nettle tea
+New England clam chowder
+nougat
+Nutella
+oat milk
+oatmeal
+oatmeal raisin
+okra
+Old Bay Seasoning
+old fashioned
+olive loaf
+olive oil
+olives
+omelette
+onion
+onion rings
+open-faced
+opera cake
+orange
+orange chicken
+oregano
+Oreo
+oxtail
+oxtail soup
+oyster cracker
+oyster mushroom
+oysters
+pad Thai
+paella
+pain au chocolat
+palak paneer
+palmier
+pan dulce
+pancake
+pandoro
+panettone
+panini
+panna cotta
+panzanella
+papaya
+parfait
+Paris-Brest
+parmesan
+Parmigiano Reggiano
+parsley
+parsnip
+passionfruit
+pasta
+pastel de nata
+pastrami on rye
+patatas bravas
+patty melt
+Pavlova
+pawpaw
+peach Bellini
+peach cobbler
+peanut
+peanut brittle
+peanut butter
+peanut butter and jelly sandwich
+peanut butter cookies
+peanut butter cup
+peanut pie
+pear
+pearl onion
+pecan pie
+pecan pralines
+pecorino
+Peking duck
+penne
+pepper
+pepper jack cheese
+Pepperidge Farm
+peppermint
+peppermint bark
+pepperoni
+PepsiCo
+persimmon
+pesto
+petits fours
+Philly cheesesteak
+pho
+phyllo
+piadina
+pickled
+pickled eggs
+pie
+pie à la mode
+pierogi
+pig in a blanket
+pig's feet
+pineapple
+pineapple upside-down cake
+pineapples
+pistachio
+pita
+pizza
+pizza Margherita
+pizzelle
+plantain
+plum
+po' boy
+poached
+Pocky
+poke bowl
+polenta
+pomegranate
+popcorn
+popsicle
+Pop-Tarts
+porcini mushroom
+pork
+pork belly
+pork chops
+pork ribs
+pork rinds
+pork roll
+porridge
+portabella mushroom
+porterhouse
+portobello
+pot pie
+pot roast
+pot stickers
+potato chips
+potato skins
+potatoes au gratin
+poultry
+pound cake
+poundcake
+poutine
+prawn
+pretzel
+prickly pear / cactus fruit
+princess cake
+profiterole
+prosecco
+prune
+pudding
+puff pastry
+puffed rice cake
+pull-apart bread
+pulled pork
+pumpernickel
+pumpkin bread
+pumpkin pie
+pupusa
+quail egg
+quesadilla
+queso
+quiche
+quick bread
+quinoa
+rabbit stew
+raclette
+radicchio
+radish
+raisin
+ramen
+ranch dressing
+raspberry
+ratatouille
+ravioli
+Red Baron
+red curry
+red onion
+red velvet cake
+refried beans
+relish
+Reuben
+ribbon candy
+ribeye
+ribs
+rice
+Rice Krispies Treats
+rice pudding
+ricotta
+risotto
+roast beef
+roast chicken
+roasted carrots
+roasted garlic
+roasted potatoes
+rock candy
+Rocky Road
+roll
+root beer float
+rosemary
+rosemary bread
+roti
+royal icing
+royale with cheese
+rugelach
+rum
+rum baba
+rum ball
+rum raisin
+rutabaga
+rye bread
+Sacher torte
+sage
+salami
+salmon
+salsa
+salt
+salt water taffy
+saltines
+samosa
+sandwich
+sandwich cookie
+sardine
+sashimi
+sauerkraut
+sausage gravy
+sausage roll
+sautéed
+schnapps
+schnecken
+schnitzel
+scone
+Scotch egg
+Scotch woodcock
+Scoville rating
+scrambled egg
+scrapple
+screwdriver
+sea cucumber
+sea urchin
+seafood
+seaweed salad
+semifreddo
+sesame seeds
+sfogliatelle
+Shaker lemon pie
+shakshuka
+shallot
+shaved ice
+shawarma
+shepherd's pie
+shiitake mushrooms
+Shirley Temple
+shoofly pie
+shortbread
+shortcrust pastry
+shrimp
+shrimp and grits
+shrimp cocktail
+skirt steak
+slider
+sloppy joe
+smelt
+smoked brisket
+smoothie
+s'more
+smørrebrød
+snickerdoodle
+snow cone
+soda bread
+soft serve
+sorbet
+soufflé
+soup
+soup dumpling
+sour cream
+sour cream and onion
+sourdough
+sous vide
+souvlaki
+soy milk
+soy sauce
+spaetzle
+spaghetti
+spaghetti and meatballs
+SpaghettiOs
+spam
+spam musubi
+spanakopita
+Spanish rice
+spelt
+spicy tuna roll
+spinach
+split pea soup
+spray cheese
+spring onion
+spring roll
+springerle
+sprinkles
+squab
+starfruit
+steak
+steak and eggs
+steak and kidney pie
+steak tartare
+stew
+sticky bun
+sticky toffee pudding
+strawberries and cream
+strawberry
+strawberry rhubarb pie
+strawberry shortcake
+string cheese
+stroganoff
+stroopwafel
+stuffed pepper
+sub
+sugar
+sugar cookie
+sugar plum
+summer roll
+sundae
+sun-dried tomatoes
+sunflower seed
+sunny side up
+sushi
+Swedish meatballs
+sweet and sour chicken
+sweet and sour soup
+sweet potato
+sweet potato casserole
+sweet potato fries
+sweet potato pie
+Swiss chard
+Swiss cheese
+Swiss roll
+swordfish
+Tabasco
+tacos
+tacos al pastor
+takoyaki
+tamale
+tangerine
+tapioca pudding
+taquitos
+tarragon
+tarte tatin
+tater tots
+T-bone
+tea sandwich
+tempura shrimp
+Texas toast
+Tex-Mex
+Thai iced tea
+thin mints
+Thousand Island
+throat lozenge
+thyme
+tilapia
+tiramisu
+toast
+toaster pastry
+tofu
+tomato
+tomato juice
+tomato pie
+tomato sauce
+tomato soup
+tortellini
+tortilla
+tortilla soup
+tostada
+tramezzino
+treacle tart
+tres leches cake
+tripe
+trout
+truffle
+tuna melt
+tuna salad
+turkey tetrazzini
+Turkish delight
+turmeric
+turnip
+turnover
+tutti frutti
+Twinkie
+Uncrustables
+V8 Vegetable Juice
+vanilla cake
+vanilla ice cream
+veal
+veggie burger
+Velveeta
+venison
+vermicelli
+Victoria sponge cake
+Viennoiserie
+vinegar
+vol-au-vent
+wafer
+waffle
+waffle fries
+wagyu
+Waldorf salad
+water chestnut
+water pie
+watercress
+Watergate salad
+watermelon
+wedding cake
+wedding soup
+whiskey
+whiskey sour
+white bread
+white button mushroom
+white chocolate
+whole wheat bread
+whoopie pie
+Wonder Bread
+wonton
+wonton soup
+Worchester sauce
+wrap
+yellow mustard
+yogurt
+Yukon Gold
+yuzu
+zucchini
+zucchini flower
