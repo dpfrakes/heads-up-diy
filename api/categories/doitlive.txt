@@ -1,1100 +1,150 @@
-à la mode
-açaí berries
-affogato
-al dente
-alfalfa
-alfredo
-almond
-almond milk
-amaretti
-ambrosia salad
-anchovies
-angel food cake
-angel hair
-animal crackers
-ants on a log
-apple
-apple crisp
-apple dumpling
-apple fritter
-apple pie
-apple pie with cheddar cheese
-apple strudel
-applesauce
-apricot
-arancini
-arepa
-arrabbiata
-artichoke
-artichoke dip
-arugula
-asiago
-asparagus
-Atlantic Beach pie
-avocado
-avocado toast
-baba ganoush
-babka
-baby back ribs
-bacon
-bacon cheeseburger
-bacon, egg, and cheese
-bagel
-baguette
-baked
-Baked Alaska
-baked beans
-baked potato
-baked ziti
-bakewell tart
-baklava
-banana
-banana bread
-banana cream pie
-banana pudding
-banana split
-Bananas Foster
-bangers and mash
-bánh mì
-bannock
-barbecue
-barbecue sauce
-Barilla
-basil
-basmati rice
-bass
-Battenberg cake
-bay leaf
-bean pie
-bear claw
-beaver tail
-beef
-beef jerky
-beef stroganoff
-beef Wellington
-beer cheese
-beet
-beignet
-Belgian waffle
-bell pepper
-Ben & Jerry's
-Berliner
-Betty Crocker
-bibimbap
-bigoli
-birthday cake
-biryani
-biscotti
-biscuit
-biscuits and gravy
-bison burger
-Bisquick
-black and white cookie
-black bean burger
-black bottom pie
-black bread
-Black Forest cake
-black pudding
-black tea
-blackberry
-black-eyed pea
-blackout cake
-blondie
-blood orange
-blooming onion
-BLT
-blue cheese
-blue cheese dressing
-blueberry
-blueberry pie
-boba tea
-boiled
-bok choy
-bologna
-Bolognese
-bonbon
-boneless chicken wings
-borscht
-Boston cream pie
-bouillabaisse
-bouillon
-boule
-boysenberry
-boysenberry pie
-bratwurst
-bread
-bread and butter pickle
-bread bowl
-bread pudding
-breadstick
-breakfast burrito
-breakfast sandwich
-breakfast sausage
-bridie
-brie
-brioche
-broccoli
-broccoli cheddar soup
-broccoli rabe
-Brown Betty
-brownie
-Brunswick stew
-bruschetta
-Brussels sprouts
-bubble gum
-buckeyes
-buffalo wing
-bulgogi
-bumbleberry pie
-bun
-bundt cake
-burrata
-burrito
-burrito bowl
-butter
-butter cookie
-butter tart
-buttermilk
-butternut squash
-butternut squash soup
-butterscotch
-cabbage
-cabbage roll
-cacio e pepe
-Caesar salad
-cake
-cake donut
-California roll
-Campbell's
-candied fruit
-candy
-candy apply
-candy cane
-candy corn
-candy hearts
-canelé
-cannoli
-cantaloupe
-cappuccino
-caprese
-caramel
-carbonara
-carne asada
-carnitas
-Carolina reaper
-carpaccio
-carrot
-carrot cake
-caviar
-cayenne
-celery
-century egg
-cereal
-ceviche
-chai
-chai tea latte
-challah
-chamomile
-champagne
-chapati
-Charleston red rice
-cheddar
-Cheerios
-cheese
-cheese and crackers
-cheese ball
-cheese puffs
-cheeseburger
-cheesecake
-Cheetos
-Chef Boyardee
-cherry
-chess pie
-chewing gum
-Chicago deep-dish pizza
-chicharrón
-chicken
-chicken à la King
-chicken adobo
-chicken and dumplin's
-chicken and rice soup
-chicken and waffles
-chicken feet
-chicken marsala
-chicken noodle soup
-chicken nuggets
-chicken parmesan
-chicken pot pie
-chicken salad
-chicken tenders
-chicken tikka masala
-chicken-fried steak
-chickpea
-chicory
-chiffon pie
-chili
-chimichurri
-chip butty
-chirashi
-chives
-chocolate bar
-chocolate cake
-chocolate chip cookie
-chocolate chip cookie dough ice cream
-chocolate ice cream
-chocolate milk
-chocolate tart
-chocolate-covered potato chips
-chopped liver
-chorizo
-chow mein
-chowder
-churro
-ciabatta
-cilantro
-cinnamon bun
-Cinnamon Toast Crunch
-cioppino
-clam chowder
-clementine
-club sandwich
-Cobb salad
-cobbler
-Coca-Cola
-cocktail sauce
-coconut
-cod
-coddled egg
-coffee
-coleslaw
-collard greens
-congee
-cookie
-Cool Whip
-coq au vin
-corn
-corn chowder
-corn dog
-corn flakes
-corn on the cob
-cornbread
-corndog
-corned beef
-Cornish hen
-cornmeal
-cottage cheese
-cotton candy
-Count Chocula
-couscous
-crab cake
-crab rangoon
-crabapple
-crackers
-cracklings
-cranberry
-cranberry sauce
-crawfish étouffée
-cream
-cream and sugar
-cream cheese
-cream horn
-cream of mushroom soup
-Cream of Wheat
-cream pie
-cream puff
-crêpe
-Crêpes Suzette
-crispy duck
-croissant
-cronut
-croque madame
-croque monsieur
-croquembouche
-croquette
-crouton
-cruller
-crumpet
-Cuban sandwich
-cucumber
-cucumber sandwich
-cupcake
-curly fries
-curry
-currywurst
-custard
-daiquiri
-dan dan noodles
-Danish
-dark chocolate
-dashi
-date
-deep fried
-deli meat
-Denver omelette
-Derby pie
-Detroit pizza
-deviled eggs
-devil's food cake
-digestive
-DiGiorno
-Dijon mustard
-dill
-dill pickle
-dim sum
-dirt cake
-döner kebab
-donut
-donut holes
-doughnut
-Dr. Pepper
-dragon fruit
-duck fat
-dumpling
-durian
-Dutch baby
-Earl Grey
-éclair
-éclair cake
-edamame
-egg drop soup
-egg in a basket
-egg roll
-egg salad
-eggplant
-eggplant parmesan
-eggs Benedict
-eggs Florentine
-elderberry
-Elvis sandwich
-Emmental
-empanada
-enchiladas
-English muffin
-escargot
-espresso
-espresso martini
-fairy bread
-falafel
-farfalle
-fattoush
-fava bean
-fennel
-feta
-fettuccine
-fettucine alfredo
-fig
-Fig Newton
-figgy pudding
-filet mignon
-financier
-finger sandwich
-fish and chips
-fish sauce
-fish tacos
-flan
-flat white
-flatbread
-Florentine
-flourless chocolate cake
-fluffernutter
-focaccia
-foie gras
-fondant
-fondue
-fortune cookie
-fougasse
-frangipane
-Frappuccino
-freeze-dried ice cream
-French dip
-French fries
-French omelette
-French onion soup
-French toast
-frickles
-fried calamari
-fried chicken
-fried chicken sandwich
-fried green tomatoes
-fried mozzarella sticks
-fried okra
-fried plantain
-fried rice
-Frito pie
-frittata
-fritter
-frog's legs
-frozen custard
-frozen yogurt
-fruit
-fruit sours
-fruitcake
-fry sauce
-frybread
-fudge
-full English breakfast
-funeral potatoes
-funnel cake
-fuzzy navel
-galette
-garbanzo
-garlic
-garlic bread
-garum
-gazpacho
-gelato
-General Tso's chicken
-German chocolate cake
-ghost pepper
-gimlet
-gin and tonic
-ginger
-ginger snap
-gingerbread man
-Girl Scouts samoas
-glaze
-gnocchi
-goat
-goat cheese
-goat milk
-gobstopper
-gooey butter cake
-gooseberry
-gouda
-goulash
-graham cracker
-granola
-grape
-grape pie
-grapefruit
-grasshopper pie
-Greek yogurt
-green bean
-green bean casserole
-green curry
-Green Goddess salad
-green papaya salad
-green tea
-grilled
-grilled cheese sandwich
-grits
-guacamole
-guava
-gumbo
-Gushers
-gyoza
-gyro
-habanero
-haggis
-half-smoke
-halibut
-ham
-ham and cheese
-hamburger
-hand pie
-hard boiled egg
-hardtack
-hashbrowns
-Hawaiian buns
-Hawaiian pizza
-hazelnut
-head cheese
-Heinz
-Hershey
-highball
-hoagie
-hoecake
-home fries
-honey
-honey mustard
-honeydew
-horchata
-hot cross bun
-hot dog
-hot dog bun
-hot honey
-hot milk cake
-hot pot
-hot sauce
-hot water crust
-hotdish
-huckleberry
-huevos rancheros
-hummingbird cake
-hummus
-Hungry Jack
-hushpuppy
-ice cream
-ice cream sandwich
-icebox cake
-ice-cream cake
-iced coffee
-iced tea
-icing
-impossible burger
-Italian beef
-Italian ice
-jackfruit
-Jaffa Cakes
-jalapeño popper
-jam
-jam donut
-jambalaya
-Jell-O
-jelly bean
-jelly donut
-jerk chicken
-Jerusalem artichoke
-jícama
-johnnycake
-jollof rice
-Jordan almonds
-Jucy Lucy
-juniper berry
-kaiser roll
-kale
-katsu sando
-ketchup
-kettle corn
-key lime pie
-kielbasa
-King cake
-kiwi
-kouign-amann
-Kraft
-kringle
-Krispy Kreme
-kumquat
-kung pao chicken
-lamb
-Land O'Lakes
-lard
-lasagna
-latte
-lebkuchen
-leek
-leek soup
-lemon
-lemon bar
-lemon curd
-lemon drop
-lemon meringue pie
-lemongrass
-lentil
-lettuce
-lettuce wrap
-licorice
-lima bean
-lime
-linguini
-linguini alle vongole
-Linzer cookie
-liver and onions
-lo mein
-loaded nachos
-lobster bisque
-lobster roll
-loco moco
-Long John
-lotus root
-lox
-lumpia
-lychee
-macaron
-macaroni
-macaroni and cheese
-macaroon
-macchiato
-mackerel
-madeleine
-Mai Tai
-maize
-mandarin
-mango
-mango sticky rice
-Manhattan
-Manhattan clam chowder
-manicotti
-maple syrup
-marble cake
-margarine
-margarita
-marinara
-marjoram
-marmalade
-marmite
-marron glacé
-marshmallow
-martini
-Maryland blue crab
-marzipan
-mascarpone
-mashed potatoes
-matzah
-Matzah ball soup
-mayonnaise
-meatball sub
-meatloaf
-melon
-meringue
-milk
-milk chocolate
-milkshake
-mille-feuille
-mimosa
-mincemeat pie
-minestrone
-mint
-mint chocolate chip ice cream
-mint julep
-miso soup
-Mississippi mud pie
-mocha
-mochi
-mojito
-molten lava cake
-momo
-Mongolian beef
-Monte Cristo
-Monterey Jack
-Moon Pie
-mooncake
-Moose Tracks
-Moravian spice cookies
-morel
-morning bun
-mortadella
-Moscow mule
-mozzarella
-MSG
-Muenster cheese
-muesli
-muffin
-muffuletta
-mussels
-mustard
-mutton
-naan
-nachos
-napa cabbage
-Napoleon
-Neapolitan ice cream
-nectarine
-nettle tea
-New England clam chowder
-nougat
-Nutella
-oat milk
-oatmeal
-oatmeal raisin
-okra
-Old Bay Seasoning
-old fashioned
-olive loaf
-olive oil
-olives
-omelette
-onion
-onion rings
-open-faced
-opera cake
-orange
-orange chicken
-oregano
-Oreo
-oxtail
-oxtail soup
-oyster cracker
-oyster mushroom
-oysters
-pad Thai
-paella
-pain au chocolat
-palak paneer
-palmier
-pan dulce
-pancake
-pandoro
-panettone
-panini
-panna cotta
-panzanella
-papaya
-parfait
-Paris-Brest
-parmesan
-Parmigiano Reggiano
-parsley
-parsnip
-passionfruit
-pasta
-pastel de nata
-pastrami on rye
-patatas bravas
-patty melt
-Pavlova
-pawpaw
-peach Bellini
-peach cobbler
-peanut
-peanut brittle
-peanut butter
-peanut butter and jelly sandwich
-peanut butter cookies
-peanut butter cup
-peanut pie
-pear
-pearl onion
-pecan pie
-pecan pralines
-pecorino
-Peking duck
-penne
-pepper
-pepper jack cheese
-Pepperidge Farm
-peppermint
-peppermint bark
-pepperoni
-PepsiCo
-persimmon
-pesto
-petits fours
-Philly cheesesteak
-pho
-phyllo
-piadina
-pickled
-pickled eggs
-pie
-pie à la mode
-pierogi
-pig in a blanket
-pig's feet
-pineapple
-pineapple upside-down cake
-pineapples
-pistachio
-pita
-pizza
-pizza Margherita
-pizzelle
-plantain
-plum
-po' boy
-poached
-Pocky
-poke bowl
-polenta
-pomegranate
-popcorn
-popsicle
-Pop-Tarts
-porcini mushroom
-pork
-pork belly
-pork chops
-pork ribs
-pork rinds
-pork roll
-porridge
-portabella mushroom
-porterhouse
-portobello
-pot pie
-pot roast
-pot stickers
-potato chips
-potato skins
-potatoes au gratin
-poultry
-pound cake
-poundcake
-poutine
-prawn
-pretzel
-prickly pear / cactus fruit
-princess cake
-profiterole
-prosecco
-prune
-pudding
-puff pastry
-puffed rice cake
-pull-apart bread
-pulled pork
-pumpernickel
-pumpkin bread
-pumpkin pie
-pupusa
-quail egg
-quesadilla
-queso
-quiche
-quick bread
-quinoa
-rabbit stew
-raclette
-radicchio
-radish
-raisin
-ramen
-ranch dressing
-raspberry
-ratatouille
-ravioli
-Red Baron
-red curry
-red onion
-red velvet cake
-refried beans
-relish
-Reuben
-ribbon candy
-ribeye
-ribs
-rice
-Rice Krispies Treats
-rice pudding
-ricotta
-risotto
-roast beef
-roast chicken
-roasted carrots
-roasted garlic
-roasted potatoes
-rock candy
-Rocky Road
-roll
-root beer float
-rosemary
-rosemary bread
-roti
-royal icing
-royale with cheese
-rugelach
-rum
-rum baba
-rum ball
-rum raisin
-rutabaga
-rye bread
-Sacher torte
-sage
-salami
-salmon
-salsa
-salt
-salt water taffy
-saltines
-samosa
-sandwich
-sandwich cookie
-sardine
-sashimi
-sauerkraut
-sausage gravy
-sausage roll
-sautéed
-schnapps
-schnecken
-schnitzel
-scone
-Scotch egg
-Scotch woodcock
-Scoville rating
-scrambled egg
-scrapple
-screwdriver
-sea cucumber
-sea urchin
-seafood
-seaweed salad
-semifreddo
-sesame seeds
-sfogliatelle
-Shaker lemon pie
-shakshuka
-shallot
-shaved ice
-shawarma
-shepherd's pie
-shiitake mushrooms
-Shirley Temple
-shoofly pie
-shortbread
-shortcrust pastry
-shrimp
-shrimp and grits
-shrimp cocktail
-skirt steak
-slider
-sloppy joe
-smelt
-smoked brisket
-smoothie
-s'more
-smørrebrød
-snickerdoodle
-snow cone
-soda bread
-soft serve
-sorbet
-soufflé
-soup
-soup dumpling
-sour cream
-sour cream and onion
-sourdough
-sous vide
-souvlaki
-soy milk
-soy sauce
-spaetzle
-spaghetti
-spaghetti and meatballs
-SpaghettiOs
-spam
-spam musubi
-spanakopita
-Spanish rice
-spelt
-spicy tuna roll
-spinach
-split pea soup
-spray cheese
-spring onion
-spring roll
-springerle
-sprinkles
-squab
-starfruit
-steak
-steak and eggs
-steak and kidney pie
-steak tartare
-stew
-sticky bun
-sticky toffee pudding
-strawberries and cream
-strawberry
-strawberry rhubarb pie
-strawberry shortcake
-string cheese
-stroganoff
-stroopwafel
-stuffed pepper
-sub
-sugar
-sugar cookie
-sugar plum
-summer roll
-sundae
-sun-dried tomatoes
-sunflower seed
-sunny side up
-sushi
-Swedish meatballs
-sweet and sour chicken
-sweet and sour soup
-sweet potato
-sweet potato casserole
-sweet potato fries
-sweet potato pie
-Swiss chard
-Swiss cheese
-Swiss roll
-swordfish
-Tabasco
-tacos
-tacos al pastor
-takoyaki
-tamale
-tangerine
-tapioca pudding
-taquitos
-tarragon
-tarte tatin
-tater tots
-T-bone
-tea sandwich
-tempura shrimp
-Texas toast
-Tex-Mex
-Thai iced tea
-thin mints
-Thousand Island
-throat lozenge
-thyme
-tilapia
-tiramisu
-toast
-toaster pastry
-tofu
-tomato
-tomato juice
-tomato pie
-tomato sauce
-tomato soup
-tortellini
-tortilla
-tortilla soup
-tostada
-tramezzino
-treacle tart
-tres leches cake
-tripe
-trout
-truffle
-tuna melt
-tuna salad
-turkey tetrazzini
-Turkish delight
-turmeric
-turnip
-turnover
-tutti frutti
-Twinkie
-Uncrustables
-V8 Vegetable Juice
-vanilla cake
-vanilla ice cream
-veal
-veggie burger
-Velveeta
-venison
-vermicelli
-Victoria sponge cake
-Viennoiserie
-vinegar
-vol-au-vent
-wafer
-waffle
-waffle fries
-wagyu
-Waldorf salad
-water chestnut
-water pie
-watercress
-Watergate salad
-watermelon
-wedding cake
-wedding soup
-whiskey
-whiskey sour
-white bread
-white button mushroom
-white chocolate
-whole wheat bread
-whoopie pie
-Wonder Bread
-wonton
-wonton soup
-Worchester sauce
-wrap
-yellow mustard
-yogurt
-Yukon Gold
-yuzu
-zucchini
-zucchini flower
+Hospice nurse
+Taxidermist
+Funeral home DJ
+Sleep paralysis demon
+Expired coupon
+Electric chair tester
+Haunted Roomba
+Last cigarette
+Ghost therapist
+Suicide hotline on hold
+Funeral crasher
+Failed magician
+Broken parachute
+Grave robber
+Lifetime warranty lawyer
+Expired organ donor
+Deadbeat psychic
+Zombie barista
+Secondhand casket
+Therapist with issues
+Bad taxidermy project
+Retired grim reaper
+Scarecrow union rep
+Ouija board operator
+Forgotten eulogy
+Morgue janitor
+Slow hearse driver
+Dead man's voicemail
+Vampire dentist
+Serial killer Uber driver
+Sad clown funeral
+Botched exorcism
+Accidental embalmer
+Coffin salesman
+Dead fish massage
+Lifeguard at a cemetery
+Cryogenic dropout
+Haunted porta-potty
+Fallen angel intern
+Cemetery real estate agent
+Ghost roommate
+Last known photo
+Childproof coffin
+Expired life coach
+Skeleton in the closet
+Divorce party planner
+Failed ghost hunter
+Toxic therapist
+Apology bouquet at funeral
+Hitchhiking zombie
+Rejected grim reaper
+Personal injury lawyer in hell
+Public execution commentator
+Cat with nine lives refund
+Sleepwalking cliff diver
+Expired daredevil
+Safety inspector in Jurassic Park
+Ghost Uber
+Skeleton crossing guard
+Headless horse Uber Eats driver
+Failed bomb squad member
+Roadkill sculptor
+Cursed clown
+Crime scene decorator
+Insomniac vampire
+DIY embalmer
+Halloween accident victim
+Drowned mime
+Unlicensed exorcist
+Abandoned life coach
+Haunted Teddy bear
+Repossessed soul
+Crying executioner
+Speed-dating serial killer
+Zombie motivational speaker
+Doomsday prepper's therapist
+Bad omen collector
+Retirement home escapee
+Elderly escape artist
+Haunted GPS
+Final destination travel agent
+Discount cemetery
+Negligent gravedigger
+Rotting motivational poster
+Forgotten grave
+Vampire with dentures
+Fire sale coffin
+Cursed AirBnB host
+Stage 5 clinger ghost
+Skeleton model
+Outdated obituary
+Lost soul receptionist
+Haunted bowling alley
+Pirate ghost tour guide
+Skeleton Uber driver
+Reincarnated dung beetle
+Angry medium
+Last rites speedrun
+Disowned poltergeist
+Black market undertaker
+Severance package at guillotine factory
+Elderly skydiving instructor
+DIY funeral kit
+Hitman with a conscience
+Magician who can’t escape
+Cannibal food critic
+The Grim Intern
+Failed Lazarus experiment
+Forgetful embalmer
+Missing headstone
+Runaway hearse
+Ghost prank caller
+Funeral buffet manager
+Haunted cruise ship captain
+Vampire accountant
+Demonic life coach
+Zombified yoga instructor
+Depressed pirate
+Morgue temperature inspector
+Discount necromancer
+Reaper on strike
+Near-death experience influencer
+Therapist for the undead
+Plague enthusiast
+Slasher film consultant
+Haunted public restroom
+The last airbender (literally)
+DIY open casket
+Geriatric stuntman
+Ghost influencer
+Expired bounty hunter
+Paranormal insurance agent
+Whispering mortician
+Deathbed stand-up comedian
+Toddler exorcist
+Elderly fight club referee
+Haunted doll repairman
+Leftover soul
+Skeleton stand-up comedian
+Possessed GPS
+Retirement home gladiator
+Family-owned cemetery
+Corporate reaper
+Ejected soul
+Haunted vending machine
+Boomerang guillotine
+Cryogenic life coach
+Time-traveling grave robber
+Zombie escape room
+Six-feet-under life coach
