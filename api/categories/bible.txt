@@ -54,8 +54,8 @@ The Road to Emmaus
 The Great Commission
 Road to Damascus
 Shipwreck
-The Armor of God (Ephesians 6)
-The Fruits of the Spirit (Galatians 5)
+Armor of God
+Fruits of the Spirit
 The Prodigal Son
 The Healing of the Blind Man
 The Woman at the Well
@@ -146,7 +146,6 @@ Paul
 Barnabas
 Silas
 Rome
-Babylon
 Pastor
 Pew
 Triptych
@@ -189,13 +188,11 @@ Holy Spirit
 Disciple
 Worship
 Sermon
-Parable
 Missionary
 Sin
 Easter
 Deacon
 Priest
-Pastor
 Martyr
 Cathedral
 Basilica

@@ -8,7 +8,7 @@ National Mall
 Smithsonian Museums
 Liberty Bell
 Independence Hall
-Acadia National Park
+Acadia
 Freedom Trail
 Fenway Park
 Harvard University
@@ -26,7 +26,6 @@ Finger Lakes
 Ellis Island
 The Met Cloisters
 Brooklyn Bridge
-Times Square
 Broadway Shows
 The Hamptons
 Catskills
@@ -34,7 +33,6 @@ Saratoga Springs
 The High Line
 American Museum of Natural History
 Rockefeller Center
-Times Square
 Bronx Zoo
 Coney Island
 Storm King Art Center
@@ -54,7 +52,7 @@ Fort McHenry
 Annapolis
 Chesapeake Bay
 Assateague Island
-Shenandoah National Park
+Shenandoah
 Colonial Williamsburg
 Monticello
 Virginia Beach
@@ -101,10 +99,10 @@ Mohonk Mountain House
 Walt Disney World
 Universal Studios
 Kennedy Space Center
-Everglades National Park
+Everglades
 South Beach
 Key West
-Dry Tortugas National Park
+Dry Tortugas
 St. Augustine
 Tampa Bay
 Siesta Key Beach
@@ -115,7 +113,7 @@ Destin
 Pensacola Beach
 Amelia Island
 Blue Ridge Parkway
-Great Smoky Mountains National Park
+Great Smoky Mountains
 Asheville
 Biltmore Estate
 Outer Banks
@@ -125,7 +123,7 @@ Charlotte
 Charleston
 Myrtle Beach
 Hilton Head Island
-Congaree National Park
+Congaree
 Savannah
 Atlanta
 Georgia Aquarium
@@ -160,7 +158,7 @@ Little River Canyon National Preserve
 Noccalula Falls Park
 Dauphin Island
 Cheaha State Park
-Hot Springs National Park
+Hot Springs
 Little Rock
 Ozark Mountains
 Crater of Diamonds State Park
@@ -188,11 +186,9 @@ Great Dismal Swamp
 Williamsburg
 Jamestown
 Norfolk
-Virginia Beach
 Richmond
 Shenandoah Valley
 Luray Caverns
-Monticello
 Roanoke
 Appomattox Court House
 Charlottesville
@@ -206,9 +202,9 @@ Willis Tower
 Chicago Riverwalk
 Lincoln Park Zoo
 Indianapolis Motor Speedway
-Indiana Dunes National Park
+Indiana Dunes
 Louisville Slugger Museum & Factory
-Mammoth Cave National Park
+Mammoth Cave
 Churchill Downs
 Cincinnati Zoo & Botanical Garden
 Rock and Roll Hall of Fame
@@ -227,7 +223,7 @@ Apostle Islands National Lakeshore
 Door County
 Mall of America
 Boundary Waters Canoe Area Wilderness
-Voyageurs National Park
+Voyageurs
 Minneapolis Institute of Art
 Missouri Botanical Garden
 Gateway Arch
@@ -236,15 +232,14 @@ Silver Dollar City
 Lake of the Ozarks
 Kansas City Zoo
 Nelson-Atkins Museum of Art
-Gateway Arch National Park
-Badlands National Park
+Badlands
 Mount Rushmore National Memorial
 Custer State Park
 Crazy Horse Memorial
-Wind Cave National Park
+Wind Cave
 Black Hills National Forest
 Corn Palace
-Theodore Roosevelt National Park
+Theodore Roosevelt
 Fargo
 International Peace Garden
 Maah Daah Hey Trail
@@ -278,7 +273,7 @@ Stan Hywet Hall & Gardens
 Put-in-Bay
 Greenfield Village
 Holland
-Isle Royale National Park
+Isle Royale
 Porcupine Mountains
 Mackinac Bridge
 Milwaukee Public Market
@@ -297,25 +292,24 @@ Lake Michigan
 Lewis and Clark National Historic Trail
 Historic Route 66
 Great River Road
-Amish Country
-Grand Canyon National Park
-Yosemite National Park
-Yellowstone National Park
-Zion National Park
-Bryce Canyon National Park
-Arches National Park
-Grand Teton National Park
-Rocky Mountain National Park
-Glacier National Park
-Death Valley National Park
-Sequoia National Park
-Joshua Tree National Park
-Olympic National Park
-Mount Rainier National Park
-Crater Lake National Park
+Grand Canyon
+Yosemite
+Yellowstone
+Zion
+Bryce Canyon
+Arches
+Grand Teton
+Rocky Mountain
+Glacier
+Death Valley
+Sequoia
+Joshua Tree
+Olympic
+Mount Rainier
+Crater Lake
 Redwood National and State Parks
-Lassen Volcanic National Park
-Channel Islands National Park
+Lassen Volcanic
+Channel Islands
 Lake Tahoe
 Napa Valley
 Big Sur
@@ -336,22 +330,21 @@ Monument Valley
 Sedona
 Phoenix
 Scottsdale
-Saguaro National Park
-Petrified Forest National Park
-Mesa Verde National Park
-Great Sand Dunes National Park
+Saguaro
+Petrified Forest
+Mesa Verde
+Great Sand Dunes
 Aspen
 Vail
 Denver
 Garden of the Gods
 Colorado Springs
-Black Canyon of the Gunnison National Park
+Black Canyon of the Gunnison
 Salt Lake City
 Park City
-Bryce Canyon
 Moab
 Great Salt Lake
-Capitol Reef National Park
+Capitol Reef
 Mount St. Helens
 Seattle
 Pike Place Market
@@ -366,16 +359,16 @@ Willamette Valley
 Lake Chelan
 Mount Shasta
 Lake Powell
-Canyonlands National Park
+Canyonlands
 Four Corners Monument
-White Sands National Park
-Carlsbad Caverns National Park
+White Sands
+Carlsbad Caverns
 Santa Fe
 Taos
 Albuquerque
 Chaco Culture National Historical Park
 Bandelier National Monument
-Great Basin National Park
+Great Basin
 Reno
 Lake Havasu
 Tucson
@@ -394,7 +387,6 @@ Point Reyes National Seashore
 Malibu
 Hollywood Walk of Fame
 Griffith Observatory
-Death Valley
 Mono Lake
 Lassen Peak
 Santa Cruz

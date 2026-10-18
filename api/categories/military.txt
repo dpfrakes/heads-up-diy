@@ -18,7 +18,6 @@ Airman First Class
 Senior Airman
 Staff Sergeant
 Sergeant
-Sergeant
 Gunnery Sergeant
 Technical Sergeant
 Master Sergeant
@@ -39,11 +38,9 @@ Lieutenant Commander
 Lieutenant Colonel
 Commander
 Colonel
-Captain
 Brigadier General
 Rear Admiral
 Major General
-Rear Admiral
 Lieutenant General
 Vice Admiral
 General

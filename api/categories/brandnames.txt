@@ -30,7 +30,6 @@ FedEx
 UPS
 Delta Airlines
 T-Mobile
-Verizon
 Lexus
 Hilton
 Subway
@@ -38,7 +37,6 @@ KFC
 H&M
 Lays
 American Airlines
-Delta Airlines
 Budweiser
 Hyundai
 Cisco
@@ -55,12 +53,9 @@ Caterpillar
 Nissan
 Bosch
 Colgate
-IBM
 Shell
 Panasonic
 Citi
-Cisco
-Colgate
 Siemens
 John Deere
 Bounty
@@ -117,16 +112,12 @@ Jaguar
 Haagen-Dazs
 Fossil
 Hugo Boss
-Tiffany & Co.
 PlayStation
 Forever 21
 Heinz
 Goodyear
-Lamborghini
 Dunkin'
 Ivory
-Nissan
-Caterpillar
 Vimeo
 Lancôme
 Under Armour
@@ -135,7 +126,6 @@ Fitbit
 Fujifilm
 Allianz
 Lululemon
-Bosch
 Xbox
 Gucci
 Danone
@@ -148,7 +138,6 @@ Novartis
 Tom Ford
 Asus
 Zippo
-Fossil
 Montblanc
 Vodafone
 Tesla
@@ -156,45 +145,4 @@ Asics
 Kia
 Swatch
 Braun
-Dell
-Prada
-Coca-Cola
 Kraft Heinz
-Nordstrom
-Gap
-Nintendo
-Tiffany & Co.
-L'Occitane
-Porsche
-Reebok
-Bose
-Philips
-LG
-Puma
-Zara
-Jaguar
-Haagen-Dazs
-Hugo Boss
-PlayStation
-Forever 21
-Heinz
-Goodyear
-Dunkin'
-Ivory
-Nissan
-Caterpillar
-Vimeo
-Lancôme
-Under Armour
-Fitbit
-Fujifilm
-Allianz
-Lululemon
-Bosch
-Xbox
-Gucci
-Danone
-Aston Martin
-Toshiba
-Western Digital
-Uniqlo

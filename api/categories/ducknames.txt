@@ -14,7 +14,6 @@ Bill
 Blubber
 Bob
 Bobber
-Bobber
 Bubba
 Bubbles
 Budweiser
@@ -48,7 +47,6 @@ Ducktape
 Ducky
 Dudley
 Duncan
-Duncan
 Echo
 Eggspresso
 Emmett
@@ -62,7 +60,6 @@ Flapper
 Fleur
 Flipper
 Float
-Float
 Flower
 Foie Gras
 Fowl Play
@@ -73,7 +70,6 @@ Gabby
 Gary
 Genevieve
 Gerald
-Goldilocks
 Goldilocks
 Goose
 Gordo
@@ -111,7 +107,6 @@ Niagra
 Nina
 Ollie
 Opal
-Paddles
 Paddles
 Pansy
 Peach
@@ -161,7 +156,6 @@ Squeakers
 Squirt
 Squirtle
 Submarine
-Suds
 Suds
 Sugar
 Swimmer

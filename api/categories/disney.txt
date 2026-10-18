@@ -26,7 +26,6 @@ Cool Runnings
 The Lion King
 Angels in the Outfield
 The Santa Clause
-The Jungle Book
 Heavyweights
 A Goofy Movie
 Pocahontas
@@ -36,7 +35,6 @@ Tom and Huck
 Muppet Treasure Island
 James and the Giant Peach
 The Hunchback of Notre Dame
-101 Dalmatians
 Hercules
 George of the Jungle
 Air Bud
@@ -96,7 +94,6 @@ High School Musical
 Bolt
 Up
 The Princess and the Frog
-Aladdin
 Alice
 Anastasia
 Anna
@@ -113,7 +110,6 @@ Buzz Lightyear
 Captain Hook
 Chewbacca
 Chip & Dale
-Cinderella
 Cruella De Ville
 Daisy Duck
 Donald Duck
@@ -132,7 +128,6 @@ Gideon
 Goofy
 Gov Radcliffe
 Green Army Men
-Hercules
 J.Worthington Foulfellow
 Jafar
 Jane Porter (Tarzan)
@@ -147,7 +142,6 @@ Little John
 Liverlips
 Mad Hatter
 Malificent
-Mary Poppins
 Max, Goofy's Son
 Meeko
 Meg (Hercules)
@@ -156,14 +150,11 @@ Minnie Mouse
 Miss Piggy
 Mowgli
 Mr Smee
-Mulan
 Mushu
-Peter Pan
 Phoebus
 Piglet
 Pinnochio
 Pluto
-Pocahontas
 Pooh
 Prince Charming
 Prince John
@@ -182,7 +173,6 @@ Snow White
 Snow White Evil Queen
 Stromboli (Pinnochio)
 Suzy & Perla
-Tarzan
 Terk
 Tigger
 Timon
@@ -198,4 +188,3 @@ Lilo
 Olaf
 Stitch
 Captain Jack Sparrow
-Sleeping Beauty

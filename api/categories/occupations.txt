@@ -41,9 +41,7 @@ Geologist
 Archaeologist
 Meteorologist
 Marine Biologist
-Economist
 Historian
-Archaeologist
 Anthropologist
 Sociologist
 Political Scientist
@@ -82,8 +80,6 @@ Wildlife Biologist
 Botanist
 Forester
 Arborist
-Firefighter
-Police Officer
 Detective
 Private Investigator
 Crime Scene Investigator

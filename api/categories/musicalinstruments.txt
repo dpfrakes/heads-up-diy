@@ -45,7 +45,6 @@ Maracas
 Cowbell
 Whistle
 Harmonica
-Accordion
 Theremin
 Dulcimer
 Hurdy-Gurdy
@@ -58,11 +57,9 @@ Ocarina
 Concertina
 Alphorn
 Jew's Harp
-Theremin
 Bass Clarinet
 Contrabassoon
 Alto Flute
-Didgeridoo
 Chimes
 Bass Trombone
 Flugelhorn

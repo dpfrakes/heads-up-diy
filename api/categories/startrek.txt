@@ -87,7 +87,6 @@ Transporter
 Phaser
 Tricorder
 Communicator
-The Kobayashi Maru
 Starfleet Command
 Starfleet Uniform
 Starfleet Insignia

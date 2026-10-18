@@ -282,8 +282,6 @@ Wyvern
 Yak
 Zebra
 Abalone
-Crab
-Squid
 Rattlesnake
 Cobra
 Cattle
