@@ -102,7 +102,7 @@ Aurora
 Baloo
 Beast
 Belle
-Bert (Mary Poppins)
+Bert
 Brer Rabbit
 Brer Bear
 Brer Fox
@@ -110,7 +110,7 @@ Buzz Lightyear
 Captain Hook
 Chewbacca
 Chip & Dale
-Cruella De Ville
+Cruella de Vil
 Daisy Duck
 Donald Duck
 Drizella
@@ -124,13 +124,12 @@ Friar Tuck
 Frollo
 Genie
 Geppetto
-Gideon
 Goofy
-Gov Radcliffe
+Governor Ratcliffe
 Green Army Men
-J.Worthington Foulfellow
+Honest John
 Jafar
-Jane Porter (Tarzan)
+Jane Porter
 Jasmine
 Jessie
 Jiminy Cricket
@@ -139,47 +138,38 @@ King Louie
 Launchpad McQuack
 Lady Tremaine
 Little John
-Liverlips
 Mad Hatter
-Malificent
-Max, Goofy's Son
+Maleficent
+Max Goof
 Meeko
-Meg (Hercules)
+Megara
 Mickey Mouse
 Minnie Mouse
 Miss Piggy
 Mowgli
-Mr Smee
+Mr. Smee
 Mushu
 Phoebus
 Piglet
-Pinnochio
 Pluto
 Pooh
 Prince Charming
 Prince John
-Princess Aurora
-Princess Atta
 Quasimodo
 Queen of Hearts
 Rafiki
 Red Queen
 Robin Hood
 Scrooge McDuck
-Shaker (Country Bear)
 Shan-Yu
 Sheriff of Nottingham
 Snow White
-Snow White Evil Queen
-Stromboli (Pinnochio)
-Suzy & Perla
+Stromboli
 Terk
 Tigger
 Timon
-Tweedle Dum/Dee
-Wendell
-White Rabbit / March Hare
-Wicked Witch
+Tweedledee and Tweedledum
+White Rabbit
 Wendy
 Woody
 Flynn Rider

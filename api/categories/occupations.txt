@@ -7,7 +7,7 @@ Chef
 Engineer
 Artist
 Musician
-Actor/Actress
+Actor
 Writer
 Scientist
 Architect
@@ -44,7 +44,6 @@ Marine Biologist
 Historian
 Anthropologist
 Sociologist
-Political Scientist
 Diplomat
 Ambassador
 Translator
@@ -71,7 +70,6 @@ Postal Worker
 Mail Carrier
 Courier
 Cartographer
-GIS Specialist (Geographic Information Systems)
 Surveyor
 Environmental Scientist
 Conservationist
@@ -94,3 +92,29 @@ Coast Guard Officer
 Naval Officer
 Air Force Pilot
 Army Soldier
+Barber
+Hairdresser
+Lifeguard
+Clown
+Magician
+Janitor
+Waiter
+Bartender
+Cashier
+Baker
+Butcher
+Tailor
+Dog Walker
+Babysitter
+Real Estate Agent
+Mime
+Stunt Double
+Lumberjack
+Coal Miner
+Fisherman
+Auctioneer
+Sommelier
+Locksmith
+Bounty Hunter
+Chimney Sweep
+Window Washer

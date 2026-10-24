@@ -84,9 +84,6 @@ Ocean City Boardwalk
 Rehoboth Beach
 Dover International Speedway
 Brandywine Valley
-Winterthur Museum, Garden, and Library
-Hagley Museum and Library
-New Castle Historic District
 Lewes
 Mohegan Sun
 Foxwoods Resort Casino
@@ -154,16 +151,12 @@ Mobile
 Huntsville
 U.S. Space & Rocket Center
 Montgomery
-Little River Canyon National Preserve
-Noccalula Falls Park
 Dauphin Island
-Cheaha State Park
 Hot Springs
 Little Rock
 Ozark Mountains
 Crater of Diamonds State Park
 Eureka Springs
-Blanchard Springs Caverns
 Buffalo National River
 Biloxi
 Natchez
@@ -183,7 +176,6 @@ Avery Island
 Lake Pontchartrain
 Shreveport
 Great Dismal Swamp
-Williamsburg
 Jamestown
 Norfolk
 Richmond
@@ -242,26 +234,15 @@ Corn Palace
 Theodore Roosevelt
 Fargo
 International Peace Garden
-Maah Daah Hey Trail
 Omaha’s Henry Doorly Zoo and Aquarium
 Chimney Rock National Historic Site
 Scotts Bluff National Monument
-Strategic Air Command & Aerospace Museum
-Ashfall Fossil Beds State Historical Park
-Des Moines Art Center
 Field of Dreams Movie Site
 Amana Colonies
 Effigy Mounds National Monument
 Iowa State Fairgrounds
-Okoboji
 Sioux Falls
 Frank Lloyd Wright’s Taliesin
-New Glarus
-Indiana State Museum
-Hoosier National Forest
-Conner Prairie
-Marengo Cave
-Covered Bridges of Parke County
 Kentucky Bourbon Trail
 Red River Gorge
 Lake Cumberland
@@ -269,7 +250,6 @@ Newport Aquarium
 Toledo Museum of Art
 Wright Brothers National Museum
 Pro Football Hall of Fame
-Stan Hywet Hall & Gardens
 Put-in-Bay
 Greenfield Village
 Holland
@@ -277,7 +257,6 @@ Isle Royale
 Porcupine Mountains
 Mackinac Bridge
 Milwaukee Public Market
-Taliesin
 St. Croix National Scenic Riverway
 Apostle Islands Ice Caves
 Minnesota State Fair
@@ -286,8 +265,6 @@ Itasca State Park
 Minnehaha Park
 Ozark National Scenic Riverways
 Mark Twain National Forest
-Pony Express National Museum
-St. Joseph
 Lake Michigan
 Lewis and Clark National Historic Trail
 Historic Route 66
@@ -296,12 +273,10 @@ Grand Canyon
 Yosemite
 Yellowstone
 Zion
-Bryce Canyon
 Arches
 Grand Teton
 Rocky Mountain
 Glacier
-Death Valley
 Sequoia
 Joshua Tree
 Olympic
@@ -388,5 +363,4 @@ Malibu
 Hollywood Walk of Fame
 Griffith Observatory
 Mono Lake
-Lassen Peak
 Santa Cruz

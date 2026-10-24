@@ -56,19 +56,39 @@ Jaw Harp
 Ocarina
 Concertina
 Alphorn
-Jew's Harp
 Bass Clarinet
 Contrabassoon
 Alto Flute
 Chimes
 Bass Trombone
 Flugelhorn
-Contrabass Clarinet
 Serpent
 Euphonium
-Heckelphone
 Lute
-Synclavier
 Viola da Gamba
 Glass Harmonica
 Waterphone
+Kazoo
+Bugle
+Cornet
+Sousaphone
+Snare Drum
+Bass Drum
+Timpani
+Glockenspiel
+Keytar
+Electric Guitar
+Viola
+Fiddle
+Spoons
+Washboard
+Handbells
+Pipe Organ
+Kalimba
+Koto
+Erhu
+Bodhran
+Steel Guitar
+Cymbals
+Melodica
+Vuvuzela

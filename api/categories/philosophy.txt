@@ -31,24 +31,20 @@ Alfred North Whitehead
 Bertrand Russell
 Hannah Arendt
 Maurice Merleau-Ponty
-Gilbert Ryle
 Jacques Derrida
 Edmund Husserl
 Herbert Marcuse
 Karl Popper
 Isaiah Berlin
-R.G. Collingwood
 Arthur Schopenhauer
 John Rawls
 Jürgen Habermas
-Alasdair MacIntyre
 Willard Van Orman Quine
 Richard Rorty
 Hilary Putnam
 Thomas Nagel
 Peter Singer
 Martha Nussbaum
-Patricia Churchland
 Daniel Dennett
 Michel de Montaigne
 Epicurus
@@ -58,9 +54,7 @@ Parmenides
 Empedocles
 Democritus
 Protagoras
-Gorgias
 Zeno of Elea
-Chrysippus
 Epictetus
 Marcus Aurelius
 Diogenes of Sinope
@@ -74,27 +68,37 @@ Al-Farabi
 John Duns Scotus
 William of Ockham
 Francis Bacon
-Benedict de Spinoza
 Gottfried Wilhelm Leibniz
 Blaise Pascal
 Giordano Bruno
-Giambattista Vico
 Johann Gottlieb Fichte
-Arthur Danto
 Paul Ricœur
 Emmanuel Levinas
 John Dewey
 Henri Bergson
-Alfred Adler
-Carl Jung
-Herbert Spencer
 Friedrich Hayek
 William James
 Charles Sanders Peirce
-Josiah Royce
 George Santayana
 Hans-Georg Gadamer
-Michel Serres
 A.J. Ayer
 Simone Weil
 Iris Murdoch
+I Think, Therefore I Am
+Trolley Problem
+Allegory of the Cave
+Occam's Razor
+Nihilism
+Existentialism
+Stoicism
+Utilitarianism
+Free Will
+Tabula Rasa
+Categorical Imperative
+Social Contract
+Yin and Yang
+Socratic Method
+Ship of Theseus
+Brain in a Vat
+Niccolo Machiavelli
+The Republic

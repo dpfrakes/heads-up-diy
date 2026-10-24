@@ -1,12 +1,12 @@
 Rubik's Cube
 Pac-Man
 MTV
-Nintendo Entertainment System (NES)
+Nintendo (NES)
 The Breakfast Club
 Michael Jackson
 Madonna
 Walkman
-Star Wars: The Empire Strikes Back
+The Empire Strikes Back
 Transformers
 The A-Team
 E.T. the Extra-Terrestrial
@@ -20,10 +20,9 @@ The Smurfs
 Super Mario Bros.
 Teenage Mutant Ninja Turtles
 The Karate Kid
-Madonna's "Like a Virgin"
+Like a Virgin
 Back to the Future
 Prince
-Rubik's Snake
 Boomboxes
 VHS Tapes
 Gremlins
@@ -35,11 +34,11 @@ Donkey Kong
 Top Gun
 Ronald Reagan
 The Cosby Show
-Alf
+ALF
 Jenga
 He-Man and the Masters of the Universe
 Care Bears
-Simon (electronic game)
+Simon
 Jane Fonda's Workout
 Garbage Pail Kids
 The Terminator
@@ -47,54 +46,65 @@ Miami Vice
 Dungeons & Dragons
 Space Invaders
 The Smiths
-The Empire Strikes Back (album by Pink Floyd)
-Transformers: The Movie
 Cyndi Lauper
 Big Hair
 Thundercats
 DeLorean DMC-12
 The Outsiders
-Atari 7800
-ETCH-A-SKETCH
 Space Shuttle Challenger
 The Clash
 Teddy Ruxpin
-The Fresh Prince of Bel-Air
 The Princess Bride
-Care Bears Movie
 Jem and the Holograms
 New Wave Music
 Duran Duran
-Moonwalk (dance move)
-Atari Lynx
-ET: The Extra-Terrestrial (video game)
+Moonwalk
 The Bangles
-Rubik's Magic
 The Lost Boys
-ALF (TV series)
 Knight Rider
 Pictionary
-Atari ST
 The Human League
 The Legend of Zelda
 Wham!
-Ferris Bueller (character)
 Magnum, P.I.
-Atari 5200
 My Pet Monster
 Inspector Gadget
-Risk (board game)
 Airwolf
 VHS Rental Stores
 Jelly Shoes
-The Police (band)
-Teddy Bears (toy)
-Garfield (comic strip)
-The Jetsons
+Garfield
 Max Headroom
 Trapper Keepers
 Punky Brewster
 Moon Boots
-The Cure (band)
-Miami Vice (TV series)
+The Cure
 Blade Runner
+Mullet
+Leg warmers
+Shoulder pads
+Members Only jacket
+Parachute pants
+Hair metal
+Bon Jovi
+Whitney Houston
+Rick Astley
+Live Aid
+We Are the World
+Berlin Wall
+Chernobyl
+Cheers
+Family Ties
+The Golden Girls
+Who Framed Roger Rabbit
+Indiana Jones
+Dirty Dancing
+Footloose
+Flashdance
+Commodore 64
+Swatch watch
+Scrunchies
+Where's the beef?
+Mr. T
+Hulk Hogan
+Wayne Gretzky
+Air Jordans

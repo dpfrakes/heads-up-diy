@@ -65,7 +65,6 @@ Quick death
 Execution
 Faking death
 Accidental overdose
-Fatal accident
 Murder
 Cursed object
 Public suicide
@@ -77,7 +76,6 @@ Theater accident
 Disturbing a grave
 Death row
 Buried alive
-Fatal car crash
 Purgatory
 Tomb
 Electrocution
@@ -90,7 +88,6 @@ Jane Doe
 Morgue sheet
 Cardiac arrest
 Toe tag
-Mass burial
 Fatal sleep apnea
 Post-mortem photo
 Violent death
@@ -106,16 +103,13 @@ Hit by a car
 Funeral debt
 Botched embalming
 Foreclosure of body
-Seance gone wrong
 Coma
 Starvation
 Plane crash
-Fall down stairs
 Cave collapse
 Death during speech
 Isolation death
 House explosion
-Fatal overdose
 Lightning strike
 Drowning under frozen lake
 Stupid death
@@ -129,15 +123,12 @@ Resuscitation fail
 Shoved into traffic
 Serial killer victim
 Last words
-Overdose
 Workplace accident
 Lost corpse
 Mass murder
-Falling from building
 Pedestrian accident
 Ironic death
 Assassination
 Spirit medium
 Avalanche
 Russian roulette
-Jump from height

@@ -8,7 +8,6 @@ Joint Chiefs of Staff
 Department of Defense
 NCO
 Private
-Private E-2
 Private First Class
 Specialist/Corporal
 Lance Corporal
@@ -58,8 +57,7 @@ Special Forces
 Green Berets
 Navy SEALs
 Nuclear Triad
-Fort Myers
-Patrick Space Force Base
+Fort Myer
 Fort Bragg (North Carolina)
 Fort Hood (Texas)
 Joint Base Lewis-McChord (Washington)
@@ -70,7 +68,6 @@ Naval Air Station Pensacola (Florida)
 Marine Corps Base Camp Pendleton (California)
 Joint Base San Antonio (Texas)
 Fort Leavenworth (Kansas)
-Naval Air Station Joint Reserve Base Fort Worth (Texas)
 Fort Gordon (Georgia)
 Fort Bliss (Texas)
 Naval Station San Diego (California)
@@ -110,7 +107,7 @@ Vietnam War
 War in Afghanistan
 War of 1812
 Revolutionary War
-Glf War
+Gulf War
 Gettysburg
 Normandy
 Iwo Jima
@@ -122,7 +119,6 @@ Battle of the Bulge
 M1 Abrams
 Apache
 C-130
-Airbus
 Black Hawk
 F-22
 F-35
@@ -131,17 +127,14 @@ Battleship
 Destroyer
 Lockheed Martin
 Boeing
-Leidos
 Northrop Grumman
 Raytheon
 General Dynamics
 BAE
 L3Harris
-CACI
 Honeywell
 CIA
 NSA
-NRO
 Wounded Warriors
 POW/MIA (Prisoners of War/Missing in Action)
 Military Police
@@ -154,5 +147,4 @@ Douglas MacArthur
 Norman Schwarzkopf
 Colin Powell
 William T. Sherman
-Matthew Ridgway
 David Petraeus

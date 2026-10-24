@@ -41,7 +41,6 @@ Canine
 Caribou
 Cat
 Caterpillar
-Caw
 Centipede
 Cheetah
 Chick
@@ -60,7 +59,6 @@ Cow
 Coyote
 Crab
 Crane
-Creature
 Crocodile
 Crow
 Cub
@@ -72,7 +70,6 @@ Dodo
 Doe
 Dog
 Dolphin
-Domestic
 Donkey
 Dove
 Dragon
@@ -80,7 +77,6 @@ Drake
 Duck
 Eagle
 Echidna
-Egg tooth
 Eggs
 Egret
 Elephant
@@ -123,7 +119,6 @@ Herd
 Heron
 Hide
 Hippopotamus
-Hiss
 Horse
 Hound
 Hummingbird
@@ -159,7 +154,6 @@ Marmoset
 Marmot
 Mink
 Minnow
-Minotaur
 Mite
 Mockingbird
 Mole
@@ -171,7 +165,7 @@ Mouse
 Mule
 Mustang
 Mutt
-Narwhale
+Narwhal
 Nest
 Newt
 Nutria
@@ -211,7 +205,6 @@ Puppy
 Pussycat
 Quail
 Rabbit
-Rabies
 Raccoon
 Ram
 Raptor
@@ -235,7 +228,6 @@ Skunk
 Sloth
 Snail
 Snake
-Snakebird
 Songbird
 Sow
 Spider
@@ -272,13 +264,10 @@ Werewolf
 Whale
 Whiskers
 Wildebeest
-Wildlife
 Wing
-Wild
 Wombat
 Woodpecker
 Worm
-Wyvern
 Yak
 Zebra
 Abalone
@@ -286,7 +275,6 @@ Rattlesnake
 Cobra
 Cattle
 Mammoth
-Sphinx
 Axolotl
 Naked mole-rat
 Capybara

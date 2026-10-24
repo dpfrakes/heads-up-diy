@@ -11,14 +11,11 @@ Mars Rover
 Curiosity Rover
 Opportunity Rover
 Spirit Rover
-Mars Exploration
-Mars Mission
 Elon Musk
 SpaceX
 Falcon 9
 Starship
 Mars Colonization
-Mars Base
 Red Planet
 Astronaut
 Cosmonaut
@@ -52,7 +49,6 @@ Dark Energy
 Big Bang Theory
 Cosmic Microwave Background
 Space Race
-Yuri's Night
 Space Tourism
 Richard Branson
 Virgin Galactic
@@ -60,7 +56,6 @@ Blue Origin
 Jeff Bezos
 Space Elevator
 Space Debris
-Orbital Decay
 Asteroid Belt
 Kuiper Belt
 Oort Cloud
@@ -81,20 +76,33 @@ Space Weather
 Solar Wind
 Aurora Borealis
 Lagrange Point
-Space Junk
 Ion Drive
 Radio Telescope
 Space Colony
 Interplanetary Travel
-Exoplanet Discovery
 Lunar Gateway
 Artemis Program
 Mars Sample Return
 Space Mining
 Commercial Spaceflight
 Spaceport
-Rocket Launch Site
-Space Legislation
 Space Law
 Astrobiology
 Space Camp
+Saturn V
+Challenger
+Houston, We Have a Problem
+Sally Ride
+John Glenn
+Alan Shepard
+Mae Jemison
+Valentina Tereshkova
+Pluto
+Halley's Comet
+Meteor Shower
+Zero Gravity
+Astronaut Ice Cream
+Mission Control
+Lunar Module
+Moon Rock
+Tang

@@ -48,9 +48,7 @@ Dollar Cost Averaging
 Leverage
 Risk Tolerance
 ROE (Return on Equity)
-Cryptocurrency Wallet
 Microfinance
-Blue Collar vs. White Collar
 Earnings Per Share (EPS)
 Insider Trading
 Capital Expenditure
@@ -61,7 +59,6 @@ Market Order
 Limit Order
 Dividend Yield
 Liquidity
-Dow Theory
 Treasury Secretary
 Portfolio Diversification
 Dodd-Frank Act
@@ -70,30 +67,46 @@ Gross Domestic Product (GDP)
 Cost of Living
 Income Tax
 Angel Investor
-Risk Premium
 Cash Flow
-Blue Sky Laws
 Default
 Blockchain
-Hard Money
 Mergers and Acquisitions
 Market Sentiment
 Bullion
 Quantitative Easing
 YOY (Year Over Year)
 Capital Markets
-Liquidity Ratio
 Amortization
 Public Offering
-Compliance
 529 Plan
 Corporate Governance
-E-commerce
 FICO Score
 10-K Report
 Efficient Market Hypothesis
-Forward Contract
 Gross Margin
 Trust Fund
 Alternative Investments
-Recession-resistant
+Wall Street
+Warren Buffett
+Piggy Bank
+Mortgage
+Interest Rate
+ATM
+Checking Account
+Savings Account
+Penny Stock
+Ponzi Scheme
+Bitcoin
+Nasdaq
+S&P 500
+Roth IRA
+Overdraft
+Bankruptcy
+Paycheck
+Tax Return
+IRS
+Audit
+Shark Tank
+Gold Standard
+Loan Shark
+Student Loans

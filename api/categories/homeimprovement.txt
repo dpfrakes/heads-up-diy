@@ -2,14 +2,10 @@ Plumbing
 Kitchen Renovation
 Power Tools
 Interior Design
-DIY Projects
 Gardening
-Home Decor
 Roof Repair
 Electrical Wiring
 Bathroom Remodel
-Paint Techniques
-Flooring Options
 HVAC Systems
 Window Treatments
 Landscaping
@@ -28,7 +24,6 @@ Door Installation
 Drywall Repair
 Pest Control
 Patio Design
-Energy-efficient Appliances
 Exterior Painting
 Closet Organization
 Tiling
@@ -39,9 +34,7 @@ Staircase Design
 Skylight Installation
 French Drain
 Home Automation
-Fireplace Upgrade
 Ceiling Fan Installation
-Shelving Ideas
 Outdoor Furniture
 Pergola Construction
 Attic Ventilation
@@ -59,7 +52,6 @@ Raised Garden Beds
 Radiant Floor Heating
 Smart Thermostats
 Exterior Shutters
-Front Porch Upgrade
 Exterior Siding
 Outdoor Kitchen
 Duct Cleaning
@@ -72,8 +64,6 @@ Deck Staining
 Septic Tank Maintenance
 Water Softener Installation
 Barn Door Installation
-Hidden Storage Solutions
-Outdoor Sound System
 Tree Pruning
 Weather Stripping
 Pressure Washing
@@ -92,8 +82,36 @@ Landscape Lighting
 Driveway Resurfacing
 Rain Garden
 Chimney Sweep
-Front Door Makeover
 Porch Swing Installation
 Home Sauna
 Murphy Bed Installation
-Dog-friendly Landscaping
+Hammer
+Stud Finder
+Level
+Tape Measure
+Caulk
+Spackle
+Sandpaper
+Shop-Vac
+Circular Saw
+Cordless Drill
+Sledgehammer
+Ladder
+Home Depot
+Lowe's
+Bob Vila
+HGTV
+Chip and Joanna Gaines
+Tim "The Tool Man" Taylor
+Grout
+Shiplap
+Open Floor Plan
+Load-bearing Wall
+Building Permit
+Contractor
+Duct Tape
+WD-40
+Paint Roller
+Painter's Tape
+Plunger
+Breaker Box

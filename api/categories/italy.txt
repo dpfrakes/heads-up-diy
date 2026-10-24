@@ -60,7 +60,6 @@ Cappuccino
 Affogato
 Taralli
 Seven hills
-Strawberry tree
 Wolf
 Green, white, and red (tricolore)
 Opera
@@ -93,22 +92,21 @@ Cristoforo Colombo (Christopher Columbus)
 Piazza
 La Dolce Vita
 La vita è bella (Life Is Beautiful)
-(electric) battery
+Battery
 Volt
 Peninsula
 Boot
 Internal combustion engine
 Bank
 Barometer
-(programmable) calculator
+Calculator
 Casino
 Cello
 Confetti
-(dental) fillings
+Dental fillings
 Encyclopedia
 Eyeglasses
 Firefighting
-Grappling hook
 Mandolin
 Microscope
 Mile (unit of measurement)
@@ -125,12 +123,10 @@ Torpedo
 Typewriter
 University
 Viola
-Watermark
 Baroque
 Rococo
 Machiavelli
 Sonnet
-Methane
 Fencing
 Ballet
 Broccoli

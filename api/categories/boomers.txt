@@ -23,19 +23,16 @@ Martin Luther King Jr.
 The British Invasion
 Space exploration
 The Twist
-Space Hopper
 Drive-in theaters
 Pink Floyd
 James Bond
 The Brady Bunch
 The Monkees
 JFK assassination
-Peace and love
 Grateful Dead
 Motown
 The Jetsons
 The Flintstones
-Woodstock Festival
 Disco
 Watergate scandal
 The Vietnam War protests
@@ -43,3 +40,58 @@ The Supremes
 Hula Hoop
 8-track tapes
 The Beach Boys
+The Ed Sullivan Show
+Twiggy
+Lava lamp
+Bell-bottoms
+Tie-dye
+Polaroid camera
+Slinky
+Mr. Potato Head
+Barbie
+Davy Crockett hat
+Howdy Doody
+I Love Lucy
+Leave It to Beaver
+Gilligan's Island
+Bewitched
+Bonanza
+Johnny Carson
+Walter Cronkite
+Muhammad Ali
+Bob Dylan
+Jimi Hendrix
+Janis Joplin
+Simon & Garfunkel
+The Doors
+Volkswagen Bus
+Ford Mustang
+Corvette
+Duck and cover
+Fallout shelter
+TV dinner
+Jell-O salad
+Tupperware party
+Shag carpet
+Rotary phone
+Transistor radio
+Jukebox
+Sock hop
+Poodle skirt
+Greaser
+Draft card
+Peace Corps
+Mood ring
+Pet Rock
+Lawn darts
+Easy-Bake Oven
+Lincoln Logs
+Milkman
+Paper route
+Reader's Digest
+Early-bird special
+AARP
+Social Security
+Golf cart
+Retirement in Florida
+Gas lines

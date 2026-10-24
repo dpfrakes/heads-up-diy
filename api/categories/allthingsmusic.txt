@@ -21,12 +21,10 @@ Accordion
 Acoustic
 Adagio
 Allegro
-Altissimo
 Alto
 Ambient
 Amp
 Andante
-Anima
 Aretha Franklin
 Aria
 Arpeggio
@@ -36,7 +34,6 @@ Ballad
 Banjo
 Bar
 Baritone
-Barococo
 Baroque
 Bass
 Bassist
@@ -44,8 +41,6 @@ Bassoon
 Beat
 Bebop
 Beethoven
-Binary
-Bird's eye
 Blues
 Bob Marley
 Bongo
@@ -69,7 +64,6 @@ Common time
 Composer
 Concerto
 Contralto
-Count
 Country
 Crescendo
 Cymbal
@@ -80,7 +74,7 @@ Didgeridoo
 Diminuendo
 Disco
 Double bass
-Douple stop
+Double stop
 Drum solo
 Drums
 Drumstick
@@ -90,11 +84,9 @@ Elvis Presley
 Encore
 Euphonium
 Experimental
-Fall
 Fermata
 Fiddle
 Fifth
-Fine
 Flamenco
 Flat
 Flute
@@ -117,7 +109,6 @@ Harmony
 Harp
 Harpsichord
 Hip hop
-Hold
 Hook
 House
 Improvise
@@ -130,7 +121,6 @@ Judy Garland
 Kalimba
 Keyboardist
 K-pop
-Leap
 Legato
 Lute
 Lyre
@@ -154,7 +144,6 @@ Movement
 Mozart
 Musical
 Musician
-Natural
 New wave
 Nirvana
 Note
@@ -180,7 +169,6 @@ Pitch
 Pizzicato
 Polka
 Pop
-Potpourri
 Prelude
 Prima donna
 Punk
@@ -193,7 +181,6 @@ Recorder
 Rest
 Rhythm
 Rick Astley
-Ritornello
 Rock 'n' roll
 Rockabilly
 Rolling Stones
@@ -208,7 +195,6 @@ Sheet music
 Simon & Garfunkel
 Singer
 Sitar
-Skip
 Solo
 Sonata
 Song
@@ -232,7 +218,6 @@ The Eagles
 The Who
 Theremin
 Timbre
-Time
 Timpani
 Trap
 Treble clef
@@ -242,7 +227,6 @@ Triplet
 Trombone
 Trumpet
 Tuba
-Turn
 Ukulele
 Variations
 Vibrato

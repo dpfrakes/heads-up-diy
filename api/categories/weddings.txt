@@ -36,14 +36,12 @@ Checklist
 Chicken or steak?
 Choreography
 Church
-Countdown
 Couple
 Dance
 Dance floor
 Date
 Decorations
 Destination
-Devotion
 Diamond
 Dinner
 DJ
@@ -66,9 +64,7 @@ Hashtag
 Hen night
 Honeymoon
 Hotel
-Household
 I do
-Institution
 Invitations
 Ivory
 Joy
@@ -88,13 +84,12 @@ Old
 Party
 Photo booth
 Photographer
-Pray
 Priest
 Proposal
 Reception
 Registry
-Rehersal
-Rehersal dinner
+Rehearsal
+Rehearsal dinner
 Ring bearer
 Rings
 Rose
@@ -123,3 +118,18 @@ Website
 Wedding
 White
 Pew
+Cold feet
+Elope
+Prenup
+Something blue
+Father-daughter dance
+Chicken Dance
+Open bar
+Wedding crasher
+Bridezilla
+Mother of the bride
+Officiant
+Unity candle
+Jumping the broom
+Hora
+Wedding favors

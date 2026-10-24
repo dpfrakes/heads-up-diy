@@ -19,8 +19,6 @@ Vaccines
 X-rays
 Boats
 Spear
-Beds
-Beads
 Arrows
 Clothing
 Glue
@@ -36,27 +34,20 @@ Fishing hooks
 Dog sled
 Well
 Bricks
-Sheep
-Rice
 Sailing
 Writing
 Irrigation
-Kilm
+Kiln
 Plumbing
 Anesthesia
 Ploughing
 Tattoos
-(metal) casting
+Metal casting
 Smelting
 Swords
 Papyrus
-Receipt
 Ruler
-Hat
-City
 Sewage
-Docks
-Puppetry
 Fork
 Dictionary
 Protractor
@@ -150,9 +141,9 @@ MP3
 Walkman
 Blu-ray
 Xbox
-Playstation
+PlayStation
 Netflix
-IPhone
+iPhone
 YouTube
 Podcast
 Kindle

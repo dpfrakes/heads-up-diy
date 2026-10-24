@@ -56,7 +56,6 @@ Deviled Eggs
 Tuna Tartare
 Chocolate Fondue
 Tom Yum Soup
-Margherita Cocktail
 Ratatouille
 Clam Chowder
 Brussels Sprouts
@@ -68,19 +67,14 @@ Moscow Mule
 Chicken Tikka Masala
 Baguette
 Irish Coffee
-Croque Madame
 Pecan Pie
 Mango Lassi
 French Onion Soup
 Cinnamon Rolls
-Margherita Pasta
 Peking Duck
-Caesar Cocktail
 Lobster Bisque
 Tandoori Chicken
-Croissant Sandwich
 Raspberry Sorbet
-Margherita Flatbread
 Chicken Alfredo
 Chocolate Mousse
 Mango Sticky Rice
@@ -90,11 +84,36 @@ Eggs Benedict
 Matcha Latte
 Pumpkin Spice Latte
 Lemonade
-Caprese Skewers
 Chicken Satay
 Goulash
 French Toast
 Butter Chicken
-Margherita Calzone
 Creme Brulee
 Acai Bowl
+Lasagna
+Spaghetti and Meatballs
+Grilled Cheese
+Peanut Butter and Jelly
+S'mores
+Popcorn
+Apple Pie
+Banana Split
+Corn Dog
+Buffalo Wings
+Meatloaf
+Ramen
+Bloody Mary
+Pina Colada
+Mimosa
+Old Fashioned
+Martini
+Hot Chocolate
+Kombucha
+Paella
+Churros
+Donuts
+Jambalaya
+Lobster Roll
+Philly Cheesesteak
+Chicken Nuggets
+Waffles

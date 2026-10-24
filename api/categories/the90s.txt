@@ -11,7 +11,7 @@ Flip Phone
 Jean Jacket
 Super Nintendo
 Nintendo 64
-Playstation
+PlayStation
 Lisa Frank
 Doc Martens
 Captain Planet
@@ -81,3 +81,21 @@ Dolly the Sheep
 The Lion King
 Toy Story
 International Space Station
+Friends
+Titanic
+Furby
+Pogs
+Razor scooter
+Britney Spears
+Pokemon
+Dial-up internet
+Windows 95
+Bill Nye the Science Guy
+Clueless
+Jurassic Park
+Grunge
+Michael Jordan
+Power Rangers
+Hootie & the Blowfish
+Tupac
+Pulp Fiction

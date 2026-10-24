@@ -38,7 +38,6 @@ Chichen Itza
 The Swiss Alps
 Reykjavik, Iceland
 The Amalfi Coast
-The Serengeti
 Cairo, Egypt
 Sydney, Australia
 Rio de Janeiro, Brazil
@@ -54,4 +53,42 @@ Bangkok, Thailand
 Nairobi, Kenya
 Seoul, South Korea
 Dublin, Ireland
-The Great Barrier Reef
+London
+Big Ben
+Stonehenge
+Paris
+Athens
+Amsterdam
+Brandenburg Gate
+Vienna
+Oktoberfest
+Matterhorn
+Mount Everest
+Hong Kong
+Singapore
+Bali
+Victoria Falls
+Iguazu Falls
+Easter Island
+Bora Bora
+Havana, Cuba
+Cancun, Mexico
+Lisbon, Portugal
+Sagrada Familia
+Mont-Saint-Michel
+Loch Ness
+Northern Lights
+Norwegian Fjords
+Red Square
+Forbidden City
+Terracotta Army
+Ha Long Bay
+Uluru
+Milford Sound
+Hobbiton
+Table Mountain
+Burj Khalifa
+Cliffs of Moher
+Giant's Causeway
+Leaning Tower of Pisa
+Niagara Falls
