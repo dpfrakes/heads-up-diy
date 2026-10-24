@@ -39,7 +39,7 @@ data class Clue(val text: String, val status: ClueStatus, val color: Int)
 enum class ClueStatus {
     PASSED,
     CORRECT,
-    UNANSWERED
+    LAST
 }
 
 class MainActivity : AppCompatActivity(), SensorEventListener {
@@ -69,7 +69,9 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
     private var gameStartGracePeriod = 2000L
     private var gameTimeLimit = 60000L
     private var lastAnswerTimestamp = 0L
-    private val minAnswerDuration = 0L
+    private val minAnswerDuration = 1000L
+    private val neutralStabilizeDuration = 500L
+    private var neutralSinceTimestamp = 0L
     private var isBeingAnswered = true
 
     private var roundClues = mutableListOf<String>("")
@@ -174,6 +176,11 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
     private fun endGame() {
         gameClockRunning = false
 
+        // Record the clue still on screen when time ran out; while PASS/CORRECT is showing, the next clue has not been seen yet
+        if (!isBeingAnswered && nextClue.isNotBlank()) {
+            cluesChallenged.add(Clue(nextClue, ClueStatus.LAST, getColor(R.color.yellow)))
+        }
+
         // Set UI to GameResults
         val intent = Intent(this, GameResultsActivity::class.java)
         startActivity(intent)
@@ -188,7 +195,7 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
 
     override fun onResume() {
         super.onResume()
-        sensorManager.registerListener(this, accelerometer, SensorManager.SENSOR_DELAY_NORMAL)
+        sensorManager.registerListener(this, accelerometer, SensorManager.SENSOR_DELAY_GAME)
     }
 
     override fun onPause() {
@@ -233,22 +240,28 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
         };
 
         // Check conditions for background color and text
+        val currentTime = System.currentTimeMillis()
         when {
             positionUp -> {
+                neutralSinceTimestamp = 0L
                 if (!isBeingAnswered)
                     cluePass()
             }
             positionDown -> {
+                neutralSinceTimestamp = 0L
                 if (!isBeingAnswered)
                     clueCorrect()
             }
             else -> {
-                if (isBeingAnswered) {
-                    handler.postDelayed({
-                        isBeingAnswered = false
-                        mainLayout.setBackgroundColor(getColor(R.color.defaultBackgroundColor))
-                        clueTextView.text = nextClue
-                    }, 250)
+                if (neutralSinceTimestamp == 0L) neutralSinceTimestamp = currentTime
+
+                // Show the next clue only after the cooldown has elapsed and the phone has held level long enough
+                val cooldownElapsed = currentTime - lastAnswerTimestamp >= minAnswerDuration
+                val stabilized = currentTime - neutralSinceTimestamp >= neutralStabilizeDuration
+                if (isBeingAnswered && cooldownElapsed && stabilized) {
+                    isBeingAnswered = false
+                    mainLayout.setBackgroundColor(getColor(R.color.defaultBackgroundColor))
+                    clueTextView.text = nextClue
                 }
             }
         }
@@ -303,7 +316,7 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
                     // Check if the response body is not null
                     responseBody?.let {
                         // Split the text into an array of strings based on line breaks
-                        val lines: List<String> = it.string().split("\n")
+                        val lines: List<String> = it.string().lines().map { line -> line.trim() }.filter { line -> line.isNotEmpty() }
                         roundClues = lines.shuffled().toMutableList()
                         clueIndex = 0
                         nextClue = roundClues[clueIndex++]

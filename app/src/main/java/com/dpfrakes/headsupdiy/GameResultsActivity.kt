@@ -38,7 +38,11 @@ class GameResultsActivity : AppCompatActivity() {
 
         val allCluesText = buildString {
             for (clue in cluesChallenged) {
-                append("<font color='${clue.color}'>${clue.text}</font><br/><br/>")
+                if (clue.status == ClueStatus.LAST) {
+                    append("<font color='${clue.color}'>${clue.text}<br/><small>(last)</small></font><br/><br/>")
+                } else {
+                    append("<font color='${clue.color}'>${clue.text}</font><br/><br/>")
+                }
             }
         }
 
