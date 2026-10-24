@@ -54,7 +54,6 @@ class ImageAdapter(
                 val position = adapterPosition
                 if (position != RecyclerView.NO_POSITION) {
                     onItemClick(filteredList[position])
-                    onItemClick(filteredList[position])
                 }
             }
         }

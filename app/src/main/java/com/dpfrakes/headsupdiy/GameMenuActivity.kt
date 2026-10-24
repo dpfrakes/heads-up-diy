@@ -5,7 +5,7 @@ import android.os.Bundle
 import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.widget.SearchView
-import androidx.recyclerview.widget.LinearLayoutManager
+import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.dpfrakes.headsupdiy.AppData.selectedCategory
 
@@ -17,7 +17,7 @@ class GameMenuActivity : AppCompatActivity() {
         setContentView(R.layout.game_category_menu)
 
         val recyclerView = findViewById<RecyclerView>(R.id.recyclerView)
-        recyclerView.layoutManager = LinearLayoutManager(this)
+        recyclerView.layoutManager = GridLayoutManager(this, 3)
         val searchView = findViewById<SearchView>(R.id.searchView)
 
         // TODO make another API to list all categories available on GitHub and build menu dynamically

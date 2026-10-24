@@ -9,5 +9,5 @@
     <color name="blue">#0000FF</color>
 
     <color name="defaultBackgroundColor">@color/blue</color>
-    <color name="status_bar_color">@color/blue</color>
+    <color name="status_bar_color">@color/black</color>
 </resources>

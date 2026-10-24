@@ -1,21 +1,25 @@
 <!-- res/layout/item_image_with_text.xml -->
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:padding="16dp">
+    android:orientation="vertical"
+    android:padding="6dp">
 
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="match_parent"
-        android:layout_height="200dp"
+        android:layout_height="100dp"
         android:scaleType="centerCrop" />
 
     <TextView
         android:id="@+id/textView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@id/imageView"
         android:gravity="center"
-        android:paddingTop="8dp" />
+        android:lines="2"
+        android:ellipsize="end"
+        android:textColor="@color/white"
+        android:textSize="13sp"
+        android:paddingTop="4dp" />
 
-</RelativeLayout>
+</LinearLayout>
