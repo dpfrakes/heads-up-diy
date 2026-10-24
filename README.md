@@ -9,6 +9,9 @@ Why did I build this?
 
 ![QR code to apk](./qrcode.jpg "Install HeadsUpDiy")
 
+Version 1.1 is signed with a new key. If you installed an earlier version, uninstall it first
+or the install will fail with "App not installed".
+
 You'll need to [allow installation of unsigned APKs](https://www.androidcentral.com/unknown-sources)
 until I have the time and inclination to become a "real" Android developer.
 

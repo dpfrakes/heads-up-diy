@@ -11,10 +11,23 @@ android {
         applicationId = "com.dpfrakes.headsupdiy"
         minSdk = 29
         targetSdk = 34
-        versionCode = 1
-        versionName = "1.0"
+        versionCode = 2
+        versionName = "1.1"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    // Release signing credentials live in ~/.gradle/gradle.properties, outside the repo
+    signingConfigs {
+        create("release") {
+            val storeFilePath = project.findProperty("HEADSUPDIY_STORE_FILE") as String?
+            if (storeFilePath != null) {
+                storeFile = file(storeFilePath)
+                storePassword = project.findProperty("HEADSUPDIY_STORE_PASSWORD") as String?
+                keyAlias = project.findProperty("HEADSUPDIY_KEY_ALIAS") as String?
+                keyPassword = project.findProperty("HEADSUPDIY_KEY_PASSWORD") as String?
+            }
+        }
     }
 
     buildTypes {
@@ -22,6 +35,7 @@ android {
             applicationIdSuffix = ".debug"
         }
         release {
+            signingConfig = signingConfigs.getByName("release")
             isMinifyEnabled = false
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
