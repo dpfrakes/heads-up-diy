@@ -57,6 +57,7 @@ class GameMenuActivity : AppCompatActivity() {
             ImageItem(R.drawable.disney, "Disney", "disney"),
             ImageItem(R.drawable.ducknames, "Duck Names", "ducknames"),
             ImageItem(R.drawable.emojis, "Emojis", "emojis"),
+            ImageItem(R.drawable.famouspeople, "Famous People", "famouspeople"),
             ImageItem(R.drawable.finance, "Finance", "finance"),
             ImageItem(R.drawable.foodanddrink, "Food and Drink", "foodanddrink"),
             ImageItem(R.drawable.govtpolitics, "Government & Politics", "govtpolitics"),
@@ -73,6 +74,7 @@ class GameMenuActivity : AppCompatActivity() {
             ImageItem(R.drawable.outdoors, "Outdoors", "outdoors"),
             ImageItem(R.drawable.philosophy, "Philosophy", "philosophy"),
             ImageItem(R.drawable.spaceexploration, "Space Exploration", "spaceexploration"),
+            ImageItem(R.drawable.sports, "Sports", "sports"),
             ImageItem(R.drawable.startrek, "Star Trek", "startrek"),
             ImageItem(R.drawable.starwars, "Star Wars", "starwars"),
             ImageItem(R.drawable.technology, "Technology", "technology"),
@@ -80,6 +82,8 @@ class GameMenuActivity : AppCompatActivity() {
             ImageItem(R.drawable.the90s, "The '90s", "the90s"),
             ImageItem(R.drawable.travelus, "Travel (US)", "travelus"),
             ImageItem(R.drawable.travelworld, "Travel (World)", "travelworld"),
+            ImageItem(R.drawable.tvshows, "TV Shows", "tvshows"),
+            ImageItem(R.drawable.videogames, "Video Games", "videogames"),
             ImageItem(R.drawable.weddings, "Weddings", "weddings"),
 
             ImageItem(R.drawable.doitlive, "Do It Live", "doitlive")
